@@ -58,7 +58,6 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 - Mana (except the default Skill "Attack")
 - Skill levels (except the default Skill "Attack")
 - Enemy Resistance (only applies to the Non-Physical part of the Attack)
-- [Test]
 
 
 Notes: 

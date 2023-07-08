@@ -1,9 +1,8 @@
-title: Just the Docs Template
+title: Pirateduck's Hero Siege 2 Guides
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://antistoopmode.github.io
-logo: "/assets/images/pirateduck.png"
 color_scheme: dark
 
 aux_links:

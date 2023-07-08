@@ -12,7 +12,7 @@ You are able to allocate 4 Attribute Points per level (400 in total) into the fo
 - Dexterity: +0.25% Critical Strike Damage, +5 Attack Rating per point
 - Energy: +4 Mana per point
 - Armor: +5 Defense per point
-- Vitality: +5 Life per point
+- Vitality: +5.5 Life per point
 
 ## Offensive Stats
 

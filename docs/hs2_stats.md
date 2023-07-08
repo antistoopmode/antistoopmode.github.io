@@ -140,8 +140,9 @@ Chance to make the enemy bleed for a total of 40% of your Physical Damage over 8
 ### Enemy Resistance
 The stat "-% to Enemy [Magic/Cold/Fire/Poison/Lightning] Resistances" affects the amount of damage enemies take from your [Magic/Cold/Fire/Poison/Lightning] damage.
 
-TODO: CHECK WHAT THE ENEMY RESISTANCES IN NORMAL/NIGHTMARE/HELL ARE
+TODO: 
 {: .label .label-red }
+- CHECK WHAT THE ENEMY RESISTANCES IN NORMAL/NIGHTMARE/HELL ARE
 
 ### All Skills
 Increases the level of all Skills by that amount.

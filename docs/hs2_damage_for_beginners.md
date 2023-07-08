@@ -118,7 +118,9 @@ The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage
 - (Please refer to the Attack Skills section for the Attack part of the skill)
 - (Please refer to the Spell Skills section for the Spell part of the skill)
 
-TODO: SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION?
+TODO: 
+{: .label .label-red }
+- SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION?
 
 ## Frequently Asked Questions
 Can spells crit? 

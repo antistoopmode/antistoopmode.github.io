@@ -214,8 +214,9 @@ There are currently two sources on items for this stat:
 - Half Freeze Duration
 - Cannot be Frozen
 
-TODO: DO 2x items with "stat_half_freeze_duration" do the same thing as "stat_cannot_be_frozen"??
+TODO: 
 {: .label .label-red }
+- DO 2x items with "stat_half_freeze_duration" do the same thing as "stat_cannot_be_frozen"??
 
 ## Utility Stats
 ### Mana

@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-# Pirateduck's Hero Siege 2 Guides
+# Pirateduck's 💀 Hero Siege 2 Guides
 
 This is intended to be a temporary place to host my Hero Siege 2 guides, before I migrate them to the official wiki.
 

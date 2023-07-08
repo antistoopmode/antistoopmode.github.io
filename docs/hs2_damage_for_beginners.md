@@ -38,7 +38,7 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 
 **This Skill type makes use of the following Stats:**
 
-- [(Attack) Damage](#(Attack)-Damage)
+- (Attack) Damage
 - Strength
 - Dexterity
 - Enhanced Damage
@@ -58,6 +58,7 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 - Mana (except the default Skill "Attack")
 - Skill levels (except the default Skill "Attack")
 - Enemy Resistance (only applies to the Non-Physical part of the Attack)
+- [Test]
 
 
 Notes: 
@@ -138,3 +139,7 @@ Is Additive (Element) Damage affected by Resistances?
 
 Are there any attributes that benefit Spell damage?
 > No, there are no attribues which scale Spell damage.
+
+----
+
+[Test]: ./hs2_stats.html#attack-speed

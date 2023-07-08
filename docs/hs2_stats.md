@@ -23,6 +23,7 @@ The amount of Attack Damage you deal with Attack or Hybrid Skills when you hit a
 ### Attack Rating
 The chance of hitting an enemies with an Attack or Hybrid Skill.
 
+{: .warning }
 TODO: 
 - EXPLAIN CALCULATION: % Chance to hit = clamp(2 * (_AR / (_AR + _DR)) * (_Alvl / (_Alvl + _Dlvl)), 0.05, 0.95) * 100
 - CALCULATE REQUIRED ATTACK RATING TO HIT THE HIGHEST MONSTER LEVEL WHILE IGNORING THEIR DEFENSE (WITH A 95% CHANCE)
@@ -64,6 +65,7 @@ Notes:
 
 The amount of Physical damage added to your Attacks. This stat is affected by the (Physical) Damage Reduction of the enemy.
 
+{: .warning }
 TODO: 
 - Check if enemies have (Physical) Damage Reduction
 
@@ -83,6 +85,7 @@ The amount of Critical Strike Damage you deal when you trigger a Critical Strike
 Notes:
 - The base Critical Strike Damage is 25%
 
+{: .warning }
 TODO: 
 - CLARIFY IF THE CRITICAL STRIKE DAMAGE AFFECTS ALL OF THE ATTACK DAMAGE OR ONLY THE PHYSICAL PART
 
@@ -111,6 +114,7 @@ Notes:
 ### Chance for a Deadly Blow
 Chance to deal Double Damage when striking an enemy.
 
+{: .warning }
 TODO: 
 - GLOBAL CHANCE OR PER WEAPON?
 - DOES THE STAT EXIST ON ARMOR? IF YES: DOES IT AFFECT BOTH WEAPONS?
@@ -118,6 +122,7 @@ TODO:
 ### Chance for a Crushing Blow
 Chance to deal [Melee: (normal enemy 1/4) (boss 1/8)] [Ranged: (normal enemy 1/8) (boss 1/16)] of remaining health as damage.
 
+{: .warning }
 TODO: 
 - GLOBAL CHANCE OR PER WEAPON?
 - DOES THE STAT EXIST ON ARMOR? IF YES: DOES IT AFFECT BOTH WEAPONS?
@@ -125,6 +130,7 @@ TODO:
 ### Enhanced Damage
 Increases your Physical damage percentually on weapons that have this stat.
 
+{: .warning }
 TODO: 
 - DOES THE STAT EXIST ON ARMOR? IF YES: DOES IT AFFECT BOTH WEAPONS?
 
@@ -134,6 +140,7 @@ Chance to make the enemy bleed for a total of 40% of your Physical Damage over 8
 ### Enemy Resistance
 The stat "-% to Enemy [Magic/Cold/Fire/Poison/Lightning] Resistances" affects the amount of damage enemies take from your [Magic/Cold/Fire/Poison/Lightning] damage.
 
+{: .warning }
 TODO: CHECK WHAT THE ENEMY RESISTANCES IN NORMAL/NIGHTMARE/HELL ARE
 
 ### All Skills
@@ -145,11 +152,12 @@ Increases the level of all Skills by that amount.
 ### Defense
 Lowers the chance of getting hit by incoming Physical Attacks and Physical Projectiles.
 
+{: .warning }
 TODO: 
 - EXPLAIN CALCULATION: % Chance to get hit = clamp(2 * (_AR / (_AR + _DR)) * (_Alvl / (_Alvl + _Dlvl)), 0.05, 0.95) * 100
 - CALCULATE REQUIRED DR TO HIT THE HIGHEST MONSTER LEVEL WHILE IGNORING THEIR DEFENSE
 - CALCULATE REQUIRED ATTACK RATING TO HIT THE UBER OR WH BOSS WITH THE HIGHEST DEFENSE
--
+
 Notes: 
 - The chance is at least 5% and at most 95%.
 
@@ -165,6 +173,7 @@ Notes:
 ### Block Chance
 The percent of chance to block incoming Physical attacks and Physical projectiles.
 
+{: .warning }
 TODO: 
 - WHAT IS THE MAX BLOCK CHANCE?
 
@@ -186,12 +195,14 @@ The base resistances in each difficulty are the following:
 - Hell: [1-5] [-75%/-80%/-85%/-95%/-100%]
 
 ### Slow
+{: .warning }
 TODO: WHAT DOES SLOW DO? ONLY ENEMY MOVEMENT SPEED REUCTION OR ACTION SPEED?
 CAN IT BE TRIGGERED WITH BOTH ATTACKS AND SPELLS?
 
 ### (Incoming) Poison Duration
 Reduces the time of being poisoned. 
 
+{: .warning }
 TODO: 
 - DOES THE REDUCTION STACK ADDITIVELY? 
 - IS THERE A MIN DURATION?
@@ -203,6 +214,7 @@ There are currently two sources on items for this stat:
 - Half Freeze Duration
 - Cannot be Frozen
 
+{: .warning }
 TODO: DO 2x items with "stat_half_freeze_duration" do the same thing as "stat_cannot_be_frozen"??
 
 ## Utility Stats
@@ -224,6 +236,7 @@ Increases your experience gained from killing enemies.
 ### Magic Find
 Increases the chance of finding Satanic / Set / Angelic items by the amount of Magic Find.
 
+{: .warning }
 TODO: 
 - DOES IT ALSO AFFECT CHASE ITEMS? 
 - DOES IT AFFECT ANGELIC KEYS?

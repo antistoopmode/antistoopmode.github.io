@@ -144,25 +144,25 @@ Are there any attributes that benefit Spell damage?
 [Test]
 ----
 
-[Attack Damage]: ../mechanics/stats.md#attack-damage
-[Strength]: ../mechanics/stats.md#attributes
-[Dexterity]: ../mechanics/stats.md#attributes
-[Enhanced Damage]: ../mechanics/stats.md#enhanced-damage
-[Attack Rating]: ../mechanics/stats.md#attack-rating
-[Increased Attack Rating]: ../mechanics/stats.md#increased-attack-rating
-[Target Defense Ignored]: ../mechanics/stats.md#target-defense-ignored
-[Attack Speed]: ../mechanics/stats.md#attack-speed
-[Additive Damage]: ../mechanics/stats.md#additive-damage
-[Critical Strike Chance]: ../mechanics/stats.md#critical-strike-chance
-[Critical Strike Damage]: ../mechanics/stats.md#critical-strike-damage
-[Chance for a Crushing Blow]: ../mechanics/stats.md#chance-for-a-crushing-blow
-[Chance to a Deadly Blow]: ../mechanics/stats.md#chance-for-a-deadly-blow
-[Chance to Open Wounds]: ../mechanics/stats.md#chance-to-open-wounds
-[Life stolen per Hit]: ../mechanics/stats.md#life-stolen-per-hit
-[Mana stolen per Hit]: ../mechanics/stats.md#mana-stolen-per-hit
-[Energy]: ../mechanics/stats.md#attributes
-[Mana]: ../mechanics/stats.md#mana
-[Skill levels]: ../mechanics/stats.md#all-skills
-[Enemy Resistance]: ../mechanics/stats.md#enemy-resistance
-[Faster Cast Rate]: ../mechanics/stats.md#faster-cast-rate 
-[Skill Damage]: ../mechanics/stats.md#skill-damage
+[Attack Damage]: ../mechanics/stats.html#attack-damage
+[Strength]: ../mechanics/stats.html#attributes
+[Dexterity]: ../mechanics/stats.html#attributes
+[Enhanced Damage]: ../mechanics/stats.html#enhanced-damage
+[Attack Rating]: ../mechanics/stats.html#attack-rating
+[Increased Attack Rating]: ../mechanics/stats.html#increased-attack-rating
+[Target Defense Ignored]: ../mechanics/stats.html#target-defense-ignored
+[Attack Speed]: ../mechanics/stats.html#attack-speed
+[Additive Damage]: ../mechanics/stats.html#additive-damage
+[Critical Strike Chance]: ../mechanics/stats.html#critical-strike-chance
+[Critical Strike Damage]: ../mechanics/stats.html#critical-strike-damage
+[Chance for a Crushing Blow]: ../mechanics/stats.html#chance-for-a-crushing-blow
+[Chance to a Deadly Blow]: ../mechanics/stats.html#chance-for-a-deadly-blow
+[Chance to Open Wounds]: ../mechanics/stats.html#chance-to-open-wounds
+[Life stolen per Hit]: ../mechanics/stats.html#life-stolen-per-hit
+[Mana stolen per Hit]: ../mechanics/stats.html#mana-stolen-per-hit
+[Energy]: ../mechanics/stats.html#attributes
+[Mana]: ../mechanics/stats.html#mana
+[Skill levels]: ../mechanics/stats.html#all-skills
+[Enemy Resistance]: ../mechanics/stats.html#enemy-resistance
+[Faster Cast Rate]: ../mechanics/stats.html#faster-cast-rate 
+[Skill Damage]: ../mechanics/stats.html#skill-damage

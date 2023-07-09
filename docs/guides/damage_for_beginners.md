@@ -1,7 +1,7 @@
 ---
 title: Damage for Beginners
 layout: default
-parent: UI Components
+parent: Guides
 ---
 
 # Damage for Beginners

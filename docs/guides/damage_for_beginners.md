@@ -9,9 +9,9 @@ Dealing Damage in Hero Siege is roughly half of the game (maybe more if you're p
 
 Active the Skills scale with: 
 - **Attributes**: You can spend 4 Attribute Points per Level.
-- **Stats**: Certain stats scale your Active Ability depending on the Skill type (more on that in the "Damage Skill Types" section. You gain stats from items, Passive Skills, Auras and Mercenary Skills.
+- **Stats**: Certain stats scale your Active Ability depending on the Skill type (more on that in the "Damage Skill Types" section). You gain stats from items, Passive Skills, Auras and Mercenary Skills.
 - **Skill levels**: Most Skill levels increase the damage of your Active Skill. You get one Skill point per level and can spend a maximum of 20 Skill points per Skill. You can gain additional Skill levels from items.
-- **The Skill levels of certain other Skills**: In HS2 Active Skills gain bonus damage from certain other Active Skills, which arementioned at the bottom of the Skill tooltip.
+- **The Skill levels of certain other Skills**: In HS2 Active Skills gain bonus damage from certain other Active Skills, which are mentioned at the bottom of the Skill tooltip.
 - **Auras**: Auras that increase a relevant Stat for your Active Skills, will boost their damage. You can only use one Aura at a time.
 - **Passives**: Passives that increase a relevant Stat for your Active Skills, will boost their damage.
 
@@ -118,28 +118,8 @@ The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage
 - (Please refer to the Attack Skills section for the Attack part of the skill)
 - (Please refer to the Spell Skills section for the Spell part of the skill)
 
-TODO: 
-{: .label .label-red }
-- SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION?
-
-## Frequently Asked Questions
-Can spells crit? 
-> No, only Physical Attacks can crit.
-
-Can dot's crit? 
-> No, only Physical Attacks can crit.
-
-Why is my Skill Damage not increasing the damage of my skill?
-> Attack skills do not benefit from the Skill Damage stat.
-
-Why is my Lifesteal / Manasteal not working?
-> Life and Mana stolen per hit work only for your Physical damage.
-
-Is Additive (Element) Damage affected by Resistances?
-> Yes.
-
-Are there any attributes that benefit Spell damage?
-> No, there are no attributes which scale Spell damage.
+<!---  TODO: 
+- SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION? --->
 
 [Test]
 ----

@@ -92,7 +92,7 @@ The Fire Spell Skill "Tire Fire" which scales with Attack Speed.
 - [Skill Damage]
 - [Energy]
 - [Mana]
-- [Skills levels] 
+- [Skill levels] 
 - [Enemy Resistance] (only applies to Non-Physical Spells)
 
 
@@ -120,8 +120,6 @@ The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage
 
 <!---  TODO: 
 - SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION? --->
-
-[Test]
 ----
 
 [Attack Damage]: ../mechanics/stats.html#attack-damage

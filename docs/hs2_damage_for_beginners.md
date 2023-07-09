@@ -97,7 +97,7 @@ The Fire Spell Skill "Tire Fire" which scales with Attack Speed.
 
 
 ### Hybrid Skills
-Hybrid Skills are part Attack Skill and part Spell Skill. Each part scales seperately according to the Attack Skill and Spell Skill section. 
+Hybrid Skills are part Attack Skill and part Spell Skill. Each part scales separately according to the Attack Skill and Spell Skill section. 
 
 **How to identify this Skill type:**
 
@@ -124,10 +124,10 @@ TODO:
 
 ## Frequently Asked Questions
 Can spells crit? 
-> No, only Attacks can crit.
+> No, only Physical Attacks can crit.
 
 Can dot's crit? 
-> No, only Attacks can crit.
+> No, only Physical Attacks can crit.
 
 Why is my Skill Damage not increasing the damage of my skill?
 > Attack skills do not benefit from the Skill Damage stat.
@@ -139,8 +139,10 @@ Is Additive (Element) Damage affected by Resistances?
 > Yes.
 
 Are there any attributes that benefit Spell damage?
-> No, there are no attribues which scale Spell damage.
+> No, there are no attributes which scale Spell damage.
 
+[Test]
 ----
 
-[Test]: ./hs2_stats.html#attack-speed
+[TestBase]: ./hs2_stats.html
+[Test]: [TestBase]#attack-speed

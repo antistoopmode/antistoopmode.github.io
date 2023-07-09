@@ -38,17 +38,16 @@ Increases the Attack Rating stat percentually.
 
 ### Attack Speed
 
-Increases the amount of Attacks per Second you can perform. Attack Speed increases the Atacks per Second performed by 0.01 per percent.
+Increases the amount of Attacks per Second you can perform. Attack Speed increases the Attacks per Second performed by 0.01 per percent.
 
 Example:
-
 ```
-// Gear
+Gear
 Weapon 1: 1.50 APS (includes no additional Attack Speed)  
 Weapon 2: 1.64 APS (includes +9% Attack Speed)  
 Armor: +10% Attack speed
 
-// Total APS
+This results in the following total APS
 Attacks per Second: 1.60 / 1.74
 ```
 
@@ -63,31 +62,17 @@ Notes:
 
 **Additive Physical Damage:**
 
-The amount of Physical damage added to your Attacks. This stat is affected by the (Physical) Damage Reduction of the enemy.
-
-TODO: 
-{: .label .label-red }
-- Check if enemies have (Physical) Damage Reduction
+The amount of Physical damage added to your Attacks.
 
 **Additive [Magic/Cold/Fire/Poison/Lightning] Damage:**
 
-The amount of [Magic/Cold/Fire/Poison/Lightning] damage added to your Attacks. This stat is affected by the [Magic/Cold/Fire/Poison/Lightning] Resistance of the enemy.
+The amount of [Magic/Cold/Fire/Poison/Lightning] damage added to your Attacks. This stat is affected by the [Magic/Cold/Fire/Poison/Lightning] Resistance of the enemy and cannot crit.
 
 ### Critical Strike Chance
-The chance to deal a Critical Strike with Physical Attacks.
-
-Notes:
-- The base Critical Strike Chance is 5%
+The chance to deal a Critical Strike with Physical Attacks. The base Critical Strike Chance is 5%
 
 ### Critical Strike Damage
-The amount of Critical Strike Damage you deal when you trigger a Critical Strike with Physical Attacks.
-
-Notes:
-- The base Critical Strike Damage is 25%
-
-TODO: 
-{: .label .label-red }
-- CLARIFY IF THE CRITICAL STRIKE DAMAGE AFFECTS ALL OF THE ATTACK DAMAGE OR ONLY THE PHYSICAL PART
+The amount of Critical Strike Damage you deal when you trigger a Critical Strike with Physical Attacks. The base Critical Strike Damage is 25%
 
 ### Faster Cast Rate
 Increases the amount of Spells per Second you can cast. Faster Cast Rate increases the Spells per Second by 0.01 per percent.
@@ -101,15 +86,10 @@ Notes:
 Increases the the damage of all Spell Skills and the Spell part of all Hybrid Skills. 
 The stat "[Magic/Cold/Fire/Poison/Lightning] Skill Damage" increases the the [Magic/Cold/Fire/Poison/Lightning] damage of Spell Skills and the Spell part of Hybrid Skills.
 
-TODO: 
-{: .label .label-red }
-- CLARIFY IF SKILL DAMANGE AND [Damage Type] SKILL DAMAGE SCALES ADDITIVILY OR MULTIPLICATIVELY
-
 ### Target Defense Ignored
 Ignores a percent of enemy defense rating when attacking, resulting in higher chance of hitting the enemy. 
 
-Notes:
-- 100% of Target Defense Ignored will result in completely ignoring the Defense Rating of the enemy. In that case, only the enemy level and your Attack Rating will determine if you are able to hit your target.
+100% of Target Defense Ignored will result in completely ignoring the Defense Rating of the enemy. In that case, only the enemy level and your Attack Rating will determine if you are able to hit your target.
 
 ### Chance for a Deadly Blow
 Chance to deal Double Damage when striking an enemy.
@@ -188,7 +168,7 @@ Increases your base regeneration rate defined by the amount of Life you have by 
 ### Resistance
 Resistances affect the amount of damage taken from Magic, Cold, Fire, Poison or Lightning damage.
 
-The base resistances in each difficulty are the following:
+A penalty to all resistances is applied to player characters depending on the difficulty:
 - Normal: [1-5] [0%]
 - Nightmare: [1-5] [-35%/-40%/-45%/-50%/-55%]
 - Hell: [1-5] [-75%/-80%/-85%/-95%/-100%]
@@ -196,7 +176,7 @@ The base resistances in each difficulty are the following:
 ### Slow
 TODO:
 {: .label .label-red }
-- WHAT DOES SLOW DO? ONLY ENEMY MOVEMENT SPEED REUCTION OR ACTION SPEED?
+- WHAT DOES SLOW DO? ONLY ENEMY MOVEMENT SPEED REDUCTION OR ACTION SPEED?
 - CAN IT BE TRIGGERED WITH BOTH ATTACKS AND SPELLS?
 
 ### (Incoming) Poison Duration

@@ -7,7 +7,7 @@ parent: Guides
 # Damage for Beginners
 Dealing Damage in Hero Siege is roughly half of the game (maybe more if you're playing Softcore). The main source of damage are your Active Skills. This chapter will explain how to scale their damage.
 
-Active the Skills scale with: 
+Active Skills scale with: 
 - **Attributes**: You can spend 4 Attribute Points per Level.
 - **Stats**: Certain stats scale your Active Ability depending on the Skill type (more on that in the "Damage Skill Types" section). You gain stats from items, Passive Skills, Auras and Mercenary Skills.
 - **Skill levels**: Most Skill levels increase the damage of your Active Skill. You get one Skill point per level and can spend a maximum of 20 Skill points per Skill. You can gain additional Skill levels from items.

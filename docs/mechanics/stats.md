@@ -209,7 +209,7 @@ Increases the chance of finding Satanic / Set / Angelic items by the amount of M
 Example:
 With 300% Magic Find you are 3x more likely to drop your desired item.
 
-More on how Magic Find works [here](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).
+Find out more on how Magic Find works over at [Hero Siege 2 Roadmap - Magic Find & Drops](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).
 
 <!--- TODO: 
 - DOES IT ALSO AFFECT CHASE ITEMS -->

@@ -6,7 +6,8 @@ url: https://antistoopmode.github.io
 color_scheme: dark
 
 aux_links:
-  HS Discord: https://discord.gg/jsKEhcu
+  Report Issue: https://github.com/antistoopmode/antistoopmode.github.io/issues
+  Contribute: https://github.com/antistoopmode/antistoopmode.github.io
 
 callouts:
   warning:

@@ -209,7 +209,7 @@ Increases the chance of finding Satanic / Set / Angelic items by the amount of M
 Example:
 With 300% Magic Find you are 3x more likely to drop your desired item.
 
-More details on how magic find works [here](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).
+More on how Magic Find works [here](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).
 
 <!--- TODO: 
 - DOES IT ALSO AFFECT CHASE ITEMS -->

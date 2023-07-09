@@ -1,7 +1,7 @@
 ---
 title: Damage for Beginners
 layout: default
-nav_order: 2
+parent: UI Components
 ---
 
 # Damage for Beginners
@@ -38,26 +38,26 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 
 **This Skill type makes use of the following Stats:**
 
-- (Attack) Damage
-- Strength
-- Dexterity
-- Enhanced Damage
-- Attack Rating
-- Increased Attack Rating
-- Target Defense Ignored
-- Attack Speed
-- Additive Damage
-- Critical Strike Chance
-- Critical Strike Damage
-- Chance for a Crushing Blow
-- Chance to a Deadly Blow
-- Chance to Open Wounds
-- Life stolen per Hit
-- Mana stolen per Hit
-- Energy (except the default Skill "Attack")
-- Mana (except the default Skill "Attack")
-- Skill levels (except the default Skill "Attack")
-- Enemy Resistance (only applies to the Non-Physical part of the Attack)
+- [Attack Damage]
+- [Strength]
+- [Dexterity]
+- [Enhanced Damage]
+- [Attack Rating]
+- [Increased Attack Rating]
+- [Target Defense Ignored]
+- [Attack Speed]
+- [Additive Damage]
+- [Critical Strike Chance]
+- [Critical Strike Damage]
+- [Chance for a Crushing Blow]
+- [Chance to a Deadly Blow]
+- [Chance to Open Wounds]
+- [Life stolen per Hit]
+- [Mana stolen per Hit]
+- [Energy] (except the default Skill "Attack")
+- [Mana] (except the default Skill "Attack")
+- [Skill levels] (except the default Skill "Attack")
+- [Enemy Resistance] (only applies to the Non-Physical part of the Attack)
 
 
 Notes: 
@@ -87,13 +87,13 @@ The Fire Spell Skill "Tire Fire" which scales with Attack Speed.
 
 **This Skill type makes use of the following Stats:**
 
-- Faster Cast Rate (if the skill has the purple flame icon on the top right of the tooltip)
-- Attack Speed (if the skill has the orange sword icon on the top right of the tooltip)
-- Skill Damage
-- Energy 
-- Mana 
-- Skills levels 
-- Enemy Resistance (only applies to Non-Physical Spells)
+- [Faster Cast Rate] (if the skill has the purple flame icon on the top right of the tooltip)
+- [Attack Speed] (if the skill has the orange sword icon on the top right of the tooltip)
+- [Skill Damage]
+- [Energy]
+- [Mana]
+- [Skills levels] 
+- [Enemy Resistance] (only applies to Non-Physical Spells)
 
 
 ### Hybrid Skills
@@ -144,5 +144,25 @@ Are there any attributes that benefit Spell damage?
 [Test]
 ----
 
-[TestBase]: ./hs2_stats.html
-[Test]: [TestBase]#attack-speed
+[Attack Damage]: ../mechanics/stats.md#attack-damage
+[Strength]: ../mechanics/stats.md#attributes
+[Dexterity]: ../mechanics/stats.md#attributes
+[Enhanced Damage]: ../mechanics/stats.md#enhanced-damage
+[Attack Rating]: ../mechanics/stats.md#attack-rating
+[Increased Attack Rating]: ../mechanics/stats.md#increased-attack-rating
+[Target Defense Ignored]: ../mechanics/stats.md#target-defense-ignored
+[Attack Speed]: ../mechanics/stats.md#attack-speed
+[Additive Damage]: ../mechanics/stats.md#additive-damage
+[Critical Strike Chance]: ../mechanics/stats.md#critical-strike-chance
+[Critical Strike Damage]: ../mechanics/stats.md#critical-strike-damage
+[Chance for a Crushing Blow]: ../mechanics/stats.md#chance-for-a-crushing-blow
+[Chance to a Deadly Blow]: ../mechanics/stats.md#chance-for-a-deadly-blow
+[Chance to Open Wounds]: ../mechanics/stats.md#chance-to-open-wounds
+[Life stolen per Hit]: ../mechanics/stats.md#life-stolen-per-hit
+[Mana stolen per Hit]: ../mechanics/stats.md#mana-stolen-per-hit
+[Energy]: ../mechanics/stats.md#attributes
+[Mana]: ../mechanics/stats.md#mana
+[Skill levels]: ../mechanics/stats.md#all-skills
+[Enemy Resistance]: ../mechanics/stats.md#enemy-resistance
+[Faster Cast Rate]: ../mechanics/stats.md#faster-cast-rate 
+[Skill Damage]: ../mechanics/stats.md#skill-damage

@@ -1,10 +1,10 @@
 ---
-title: Stats for Beginners
+title: Stats
 layout: default
-nav_order: 1
+parent: Mechanics
 ---
 
-# Stats for Beginners
+# Stats
 ## Attributes
 You are able to allocate 4 Attribute Points per level (400 in total) into the following Attributes:
 
@@ -216,6 +216,11 @@ Increases your experience gained from killing enemies.
 
 ### Magic Find
 Increases the chance of finding Satanic / Set / Angelic items by the amount of Magic Find.
+
+Example:
+With 300% Magic Find you are 3x more likely to drop your desired item.
+
+More details on how magic find works [here](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).
 
 TODO: 
 {: .label .label-red }

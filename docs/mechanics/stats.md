@@ -135,7 +135,10 @@ Notes:
 - The chance is at least 5% and at most 95%.
 
 ### Increased Defense
-Increases the Defense stat percentually (global).
+Increases the [Defense] stat percentually (global).
+
+### Defense vs Missiles
+Increases your [Defense] rating percentually against enemy projectile Attacks.
 
 ### Enhanced Defense
 Increases the Defense value on the item with this particular stat. The Defense value on the tooltip of those items already include the additional Defense from this stat. 
@@ -147,6 +150,16 @@ Notes:
 The percent of chance to block incoming Physical attacks and Physical projectiles. 
 
 The only source for Block Chance is the shield, which makes it impossible to reach more than 75% block chance.
+
+### (Physical) Damage Reduction
+Reduces all incoming Physical damage.
+
+### (Magic) Damage Reduction
+Reduces all incoming Non-Physical damage.
+
+{: .warning }
+Notes:
+- Despite the name, this damage reduction applies to Magic, Cold, Fire, Poison and Lightning damage.
 
 ### Life
 The maximum amount of Life. It represents the amount of damage a character can take before they die.
@@ -213,3 +226,7 @@ Find out more on how Magic Find works over at [Hero Siege 2 Roadmap - Magic Find
 
 <!--- TODO: 
 - DOES IT ALSO AFFECT CHASE ITEMS -->
+
+----
+
+[Defense]: #defense

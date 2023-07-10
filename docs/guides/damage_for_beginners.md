@@ -5,7 +5,7 @@ parent: Guides
 ---
 
 # Damage for Beginners
-Dealing Damage in Hero Siege is roughly half of the game (maybe more if you're playing Softcore). The main source of damage are your Active Skills. This chapter will explain how to scale their damage.
+Dealing Damage in Hero Siege 2 is roughly half of the game (maybe more if you're playing Softcore). The main source of damage are your Active Skills. This chapter will explain how to scale their damage.
 
 Active Skills scale with: 
 - **Attributes**: You can spend 4 Attribute Points per Level.

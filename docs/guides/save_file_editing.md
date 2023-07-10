@@ -183,3 +183,31 @@ In order to assign an item to the desired equipment slot , set the desired inven
 | 11   | Relic Slot 2            |
 | 12   | Relic Slot 3            |
 | 13   | Relic Slot 4            |
+
+
+### Example
+Let's say we wanna equip the Satanic item "Death's Mirror". We can see on the [sheet](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=957743150) that it's in the 1st position of the Dagger column. This indicates that the id is most likely 0 (not all lists are sorted by id). It's an dagger weapon, thus "weapon_type" 2 and "type" 3.
+
+```js
+{
+    "id": 0,
+    "rarity": 6,
+    "token_level": 0,
+    "timestamp": "0.00",
+    "mf_drop": 0,
+    "amount": 1,
+    "market_id": 0,
+    "drop_quality": 0,
+    "token": 0,
+    "tier": 4,
+    "weapon_type": 2,
+    "type": 3,
+    "account": "1-0",
+    "seed": 18186.0
+}
+```
+
+Since we wanna equip it, we convert it to Base64 and assign it to the first weapon slot
+```
+inventory3="ewogICAgImlkIjogMCwKICAgICJyYXJpdHkiOiA2LAogICAgInRva2VuX2xldmVsIjogMCwKICAgICJ0aW1lc3RhbXAiOiAiMC4wMCIsCiAgICAibWZfZHJvcCI6IDAsCiAgICAiYW1vdW50IjogMSwKICAgICJtYXJrZXRfaWQiOiAwLAogICAgImRyb3BfcXVhbGl0eSI6IDAsCiAgICAidG9rZW4iOiAwLAogICAgInRpZXIiOiA0LAogICAgIndlYXBvbl90eXBlIjogMiwKICAgICJ0eXBlIjogMywKICAgICJhY2NvdW50IjogIjEtMCIsCiAgICAic2VlZCI6IDE4MTg2LjAKfQ=="
+```

@@ -134,7 +134,7 @@ The structure of an armor or weapon in the save file looks like this:
 A short explanation of the key/value pairs:
 - "id": The ID of the item is unique per type and is numbered according to the [Hero Siege 2 Roadmap - Satanic Item Reworks sheet](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=957743150)
 - "rarity": The rarity represents the item rarity
-    - 1: Common
+    - 1: Common (also used for relics)
     - 2: Superior
     - 3: Rare
     - 6: Satanic
@@ -161,6 +161,17 @@ A short explanation of the key/value pairs:
     - 15: Flask
     - 16: Throwing
     - 17: Novelty
+- "type": The item type
+    - 0: Helmet
+    - 1: Body Armor
+    - 2: Boots
+    - 3: Weapon
+    - 4: Gloves
+    - 5: Amulet
+    - 6: Shield
+    - 7: Ring
+    - 8: Belt
+    - 16: relic
 - "seed": Seed value to determine the individual stat rolls
 
 Items in the stash or inventory file have two additional keys (X and Y) to determine their position in the roster.

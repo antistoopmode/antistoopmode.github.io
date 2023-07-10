@@ -115,8 +115,8 @@ The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage
 
 **This Skill type makes use of the following Stats:**
 
-- (Please refer to the Attack Skills section for the Attack part of the skill)
-- (Please refer to the Spell Skills section for the Spell part of the skill)
+- (Please refer to the [Attack Skill](#attack-skill) section for the Attack part of the skill)
+- (Please refer to the [Spell Skill](#spell-skill) section for the Spell part of the skill)
 
 <!---  TODO: 
 - SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION? --->

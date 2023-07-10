@@ -13,14 +13,13 @@ Step 1: Avoidance (only applies to Attacks)
 - [Defense] 
 - [Defense vs Missiles]
 
-Step 2: Physical Damage Mitigation
+Step 2: Mitigation for Physical Damage 
 - [Physical Damage Reduction]
 
-Step 2: Elemental Damage Mitigation
+Step 2: Mitigation for Elemental Damage Mitigation
 - [Resistance]
 - [Elemental Damage Reduction]
 
-----
 
 [Defense]: ../mechanics/stats.html#defense
 [Physical Damage Reduction]: ../mechanics/stats.html#physical-damage-reduction

@@ -10,6 +10,5 @@ aux_links:
   Contribute: https://github.com/antistoopmode/antistoopmode.github.io
 
 callouts:
-  warning:
-    title: Warning
-    color: red
+  highlight:
+    color: yellow

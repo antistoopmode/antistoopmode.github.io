@@ -43,13 +43,19 @@ Increases the Attack Rating stat percentually.
 Increases the amount of Attacks per Second you can perform. Attack Speed increases the Attacks per Second performed by 0.01 per percent.
 
 Example:
-```
+
 Gear
+
+```
 Weapon 1: 1.50 APS (includes no additional Attack Speed)  
 Weapon 2: 1.64 APS (includes +9% Attack Speed)  
 Armor: +10% Attack speed
+```
 
 This results in the following total APS
+
+
+```
 Attacks per Second: 1.60 / 1.74
 ```
 
@@ -157,9 +163,10 @@ Reduces all incoming Physical damage.
 ### (Magic) Damage Reduction
 Reduces all incoming Non-Physical damage.
 
-{: .warning }
-Notes:
-- Despite the name, this damage reduction applies to Magic, Cold, Fire, Poison and Lightning damage.
+{: .highlight }
+> Notes:
+>
+> - Despite the name, this damage reduction applies to Magic, Cold, Fire, Poison and Lightning damage.
 
 ### Life
 The maximum amount of Life. It represents the amount of damage a character can take before they die.

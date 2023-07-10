@@ -1,5 +1,5 @@
 ---
-title: Defense for Beginners
+title: Defenses for Beginners
 layout: default
 parent: Guides
 ---

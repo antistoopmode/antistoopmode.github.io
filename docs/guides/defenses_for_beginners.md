@@ -17,8 +17,10 @@ Step 2: Mitigation for Physical Damage
 - [Physical Damage Reduction]
 
 Step 2: Mitigation for Elemental Damage Mitigation
-- [Resistance]
+- [Resistance] 
 - [Elemental Damage Reduction]
+
+Capping your Resistances should be your highest priority. Physical Damage Reduction should be next on your list. Defense is nice, but way too unpredictable.
 
 
 [Defense]: ../mechanics/stats.html#defense

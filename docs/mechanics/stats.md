@@ -160,13 +160,8 @@ The only source for Block Chance is the shield, which makes it impossible to rea
 ### (Physical) Damage Reduction
 Reduces all incoming Physical damage.
 
-### (Magic) Damage Reduction
-Reduces all incoming Non-Physical damage.
-
-{: .highlight }
-> Notes:
->
-> - Despite the name, this damage reduction applies to Magic, Cold, Fire, Poison and Lightning damage.
+### (Elemental) Damage Reduction
+Reduces all incoming Non-Physical damage. This damage reduction applies to Magic, Cold, Fire, Poison and Lightning damage.
 
 ### Life
 The maximum amount of Life. It represents the amount of damage a character can take before they die.

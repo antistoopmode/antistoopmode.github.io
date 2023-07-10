@@ -18,7 +18,7 @@ Active Skills scale with:
 # Damage Skill Types
 There are three types of damage Skills in Hero Siege 2: Attack Skills, Spell Skills and Hybrid Skills. The following chapters explain how to identify each Skill type with an example, how to scale it's damage and what to look out for.
 
-## Attack Skills
+## Attack Skill
 Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Attack Damage. Some of them require a specific weapon type in order to be used. Your Attack Rating determines the chance for Attack Skills to hit.
 
 **How to identify this Skill type:**
@@ -63,7 +63,7 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 Notes: 
 - Attack Skills do **not** scale with Skill Damage
 
-## Spell Skills
+## Spell Skill
 Spell Skills always hit and deal either Physical, Magic, Cold, Fire, Poison or Lightning damage. Some of them have a cooldown and/or duration.
 
 **How to identify this Skill type:**
@@ -96,7 +96,7 @@ The Fire Spell Skill "Tire Fire" which scales with Attack Speed.
 - [Enemy Resistance] (only applies to Non-Physical Spells)
 
 
-## Hybrid Skills
+## Hybrid Skill
 Hybrid Skills are part Attack Skill and part Spell Skill. Each part scales separately according to the Attack Skill and Spell Skill section. 
 
 **How to identify this Skill type:**

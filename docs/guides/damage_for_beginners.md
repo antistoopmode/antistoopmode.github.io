@@ -118,8 +118,15 @@ The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage
 - (Please refer to the [Attack Skill](#attack-skill) section for the Attack part of the skill)
 - (Please refer to the [Spell Skill](#spell-skill) section for the Spell part of the skill)
 
-<!---  TODO: 
-- SECTION ABOUT DOTS LIKE BLEED AND POISON. WHAT'S THEIR DEFAULT DURATION? --->
+
+# Damage over Time
+Bleeds and Poisons deal damage 10x before they expire. Each Skill has it's own dot, meaning the same skill will refresh the dot, but a different one of the same damage type will add it's own dot instance. Damage over time counts as a Spell and therefore scales like one:
+- [Skill Damage]
+- [Skill levels] 
+- [Enemy Resistance] (only applies to Non-Physical Spells)
+
+(Keep in mind that certain Hybrid skills deal Damage over Time based on the initial hit)
+
 ----
 
 [Attack Damage]: ../mechanics/stats.html#attack-damage

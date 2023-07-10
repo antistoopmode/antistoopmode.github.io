@@ -9,21 +9,14 @@ Mitigating Damage in Hero Siege 2 is a big part of the game (especially if you'r
 
 Step 0: Don't get hit by staying out of range or moving out of the projectile trajectories.
 
-## Dealing with Physical Damage
 Step 1: Avoidance (only applies to Attacks)
 - [Defense] 
 - [Defense vs Missiles]
 
-Step 2: Mitigation
+Step 2: Physical Damage Mitigation
 - [Physical Damage Reduction]
 
-## Dealing with Elemental Damage
-
-Step 1: Avoidance (only applies to Attacks)
-- [Defense] 
-- [Defense vs Missiles]
-
-Step 2: Mitigation
+Step 2: Elemental Damage Mitigation
 - [Resistance]
 - [Elemental Damage Reduction]
 

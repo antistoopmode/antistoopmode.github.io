@@ -30,9 +30,11 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 **Examples of this Skill type:**
 
 - The most basic example of this Skill type is the Skill "Attack":
+
 ![Image](../../assets/images/attack.png "(default) Attack")
 
 - Another Attack Skill would be "Explosive Bullets":
+
 ![Image](../../assets/images/explosive_bullets.png "Explosive Bullets (Pirate)")
 
 
@@ -76,12 +78,15 @@ Spell Skills always hit and deal either Physical, Magic, Cold, Fire, Poison or L
 **Examples of this Skill type:**
 
 The Fire Spell Skill "Fireball" which scales with Faster Cast Rate:
+
 ![Image](../../assets/images/fireball.png "Fireball (Pyromancer)")
 
 The Physical Spell Skill "Bouncing Grenade" which scales with Faster Cast Rate:
+
 ![Image](../../assets/images/bouncing_grenade.png "Bouncing Grenade (Marauder)")
 
 The Fire Spell Skill "Tire Fire" which scales with Attack Speed.
+
 ![Image](../../assets/images/tire_fire.png "Tire Fire (Redneck)")
 
 
@@ -108,9 +113,11 @@ Hybrid Skills are part Attack Skill and part Spell Skill. Each part scales separ
 **Examples of this Skill type:**
 
 The Hybrid Skill "Thunder Fury" which performs an Attack with increased Attack Damage as well as a Spell which deals Lightning damage:
+
 ![Image](../../assets/images/thunder_fury.png "Thunder Fury (Amazon)")
 
 The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage as well as a Spell which deals Bleeding Damage over time:
+
 ![Image](../../assets/images/rend_flesh.png "Rend Flesh (Marauder)")
 
 **This Skill type makes use of the following Stats:**

@@ -29,11 +29,11 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 
 **Examples of this Skill type:**
 
-- The most basic example of this Skill type is the Skill "Attack":
+The most basic example of this Skill type is the Skill "Attack":
 
 ![Image](../../assets/images/attack.png "(default) Attack")
 
-- Another Attack Skill would be "Explosive Bullets":
+Another Attack Skill would be "Explosive Bullets":
 
 ![Image](../../assets/images/explosive_bullets.png "Explosive Bullets (Pirate)")
 
@@ -85,7 +85,7 @@ The Physical Spell Skill "Bouncing Grenade" which scales with Faster Cast Rate:
 
 ![Image](../../assets/images/bouncing_grenade.png "Bouncing Grenade (Marauder)")
 
-The Fire Spell Skill "Tire Fire" which scales with Attack Speed.
+The Fire Spell Skill "Tire Fire" which scales with Attack Speed:
 
 ![Image](../../assets/images/tire_fire.png "Tire Fire (Redneck)")
 

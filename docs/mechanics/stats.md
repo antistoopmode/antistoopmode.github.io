@@ -176,9 +176,9 @@ Increases your base regeneration rate defined by the amount of Life you have by 
 Resistances affect the amount of damage taken from Magic, Cold, Fire, Poison or Lightning damage.
 
 A penalty to all resistances is applied to player characters depending on the difficulty:
-- Normal: [1-5] [0%]
-- Nightmare: [1-5] [-35%/-40%/-45%/-50%/-55%]
-- Hell: [1-5] [-75%/-80%/-85%/-95%/-100%]
+- Normal[1-5]: [0%]
+- Nightmare[1-5]: [-35%/-40%/-45%/-50%/-55%]
+- Hell[1-5]: [-75%/-80%/-85%/-95%/-100%]
 
 <!--- ### Slow
 TODO:

@@ -185,8 +185,8 @@ TODO:
 - WHAT DOES SLOW DO? ONLY ENEMY MOVEMENT SPEED REDUCTION OR ACTION SPEED?
 - CAN IT BE TRIGGERED WITH BOTH ATTACKS AND SPELLS? -->
 
-##  Faster Hit Recovery
-Reduces the recovery time after getting hit by enemy basic or projectile attacks. (When you get hit you "stutter" for a while)
+###  Faster Hit Recovery
+Reduces the recovery time / "stutter" after getting hit by enemy basic or projectile attacks.
 
 <!--- 
 TODO:
@@ -201,11 +201,7 @@ Reduces the time of being poisoned.
 - IS THERE A MIN DURATION? -->
 
 ### (Incoming) Freeze Duration
-Reduces the time of being frozen.
-
-There are currently two sources on items for this stat: 
-- Half Freeze Duration
-- Cannot be Frozen
+Reduces the time of being frozen. There are two stats that affect the incoming freeze duration "Half Freeze Duration" and "Cannot be Frozen".
 
 <!--- TODO: 
 - DO 2x items with "stat_half_freeze_duration" do the same thing as "stat_cannot_be_frozen"?? -->

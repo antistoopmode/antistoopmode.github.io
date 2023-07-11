@@ -216,7 +216,7 @@ Increases your base regeneration rate defined by the amount of Mana you have by 
 ### Extra Gold Dropped From Kills
 Increases the percentage of Gold dropped from enemies killed.
 
-### Increase Experience Gain
+### Increased Experience Gain
 Increases your experience gained from killing enemies.
 
 ### Magic Find

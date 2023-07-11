@@ -185,6 +185,14 @@ TODO:
 - WHAT DOES SLOW DO? ONLY ENEMY MOVEMENT SPEED REDUCTION OR ACTION SPEED?
 - CAN IT BE TRIGGERED WITH BOTH ATTACKS AND SPELLS? -->
 
+##  Faster Hit Recovery
+Reduces the recovery time after getting hit by enemy basic or projectile attacks. (When you get hit you "stutter" for a while)
+
+<!--- 
+TODO:
+- WHAT DOES THE STUTTER EXACTLY DO?
+- HOW LONG IS THE DEFAULT STUTTER DURATION AND HOW DOES FHR AFFECT IT -->
+
 ### (Incoming) Poison Duration
 Reduces the time of being poisoned. 
 

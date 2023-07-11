@@ -109,8 +109,8 @@ jewelcrafting="250.000000"
 jewelcrafting_hc="250.000000"
 ```
 
-## Equipment
-The structure of an armor or weapon in the save file looks like this:
+## Creating Items
+The structure of an item in the save file looks like this:
 
 ```js
 {
@@ -171,11 +171,33 @@ A short explanation of the key/value pairs:
     - 6: Shield
     - 7: Ring
     - 8: Belt
-    - 16: relic
+    - 15: Rune
+    - 16: Relic
 - "seed": Seed value to determine the individual stat rolls
 
-Items in the stash or inventory file have two additional keys (X and Y) to determine their position in the roster.
+### Example
+Let's say we wanna create the Satanic item "Death's Mirror". We can see on the [sheet](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=957743150) that it's in the 1st position of the Dagger column. This indicates that the id is most likely 0 (not all lists are sorted by id). It's an dagger weapon, thus "weapon_type" 2 and "type" 3.
 
+```js
+{
+    "id": 0,
+    "rarity": 6,
+    "token_level": 0,
+    "timestamp": "0.00",
+    "mf_drop": 0,
+    "amount": 1,
+    "market_id": 0,
+    "drop_quality": 0,
+    "token": 0,
+    "tier": 4,
+    "weapon_type": 2,
+    "type": 3,
+    "account": "1-0",
+    "seed": 18186.0
+}
+```
+
+## Equipping an item
 In order to assign an item to the desired equipment slot , set the desired inventory[slot] value (where [slot] is the equipment slot number from the table below) in the character save file to the item ([encoded in Base64](https://www.base64encode.org/)) you want. The encoding is only required for the equipment slots, but not for the stash or inventory file.
 
 | Slot | Type                    |
@@ -197,28 +219,44 @@ In order to assign an item to the desired equipment slot , set the desired inven
 
 
 ### Example
-Let's say we wanna equip the Satanic item "Death's Mirror". We can see on the [sheet](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=957743150) that it's in the 1st position of the Dagger column. This indicates that the id is most likely 0 (not all lists are sorted by id). It's an dagger weapon, thus "weapon_type" 2 and "type" 3.
+Let's use the "Death's Mirror" that we created in the [previous example](#example). Since we wanna equip it, we convert it to Base64 and assign it to the first weapon slot, which is slot #3 according to the table above.
+```
+inventory3="ewogICAgImlkIjogMCwKICAgICJyYXJpdHkiOiA2LAogICAgInRva2VuX2xldmVsIjogMCwKICAgICJ0aW1lc3RhbXAiOiAiMC4wMCIsCiAgICAibWZfZHJvcCI6IDAsCiAgICAiYW1vdW50IjogMSwKICAgICJtYXJrZXRfaWQiOiAwLAogICAgImRyb3BfcXVhbGl0eSI6IDAsCiAgICAidG9rZW4iOiAwLAogICAgInRpZXIiOiA0LAogICAgIndlYXBvbl90eXBlIjogMiwKICAgICJ0eXBlIjogMywKICAgICJhY2NvdW50IjogIjEtMCIsCiAgICAic2VlZCI6IDE4MTg2LjAKfQ=="
+```
+
+## Store an item in the stash or inventory
+Items in the stash or inventory file have two additional keys/value pairs (X and Y) to determine their position in the grid. Use the character inventory save file "inventory_order_[slot].pas" (where [slot] refers to the character slot number which starts at 0) or the account wide stash save file "stash.pas" to store an item.
+
+### Example
+Let's use the "Death's Mirror" again that we created in the [previous example](#example). We want to store it in the first stash space (0/0), so we set the X and Y value, which determine the grid position, to 0 and put it in the first stash tab object.
 
 ```js
 {
-    "id": 0,
-    "rarity": 6,
-    "token_level": 0,
-    "timestamp": "0.00",
-    "mf_drop": 0,
-    "amount": 1,
-    "market_id": 0,
-    "drop_quality": 0,
-    "token": 0,
-    "tier": 4,
-    "weapon_type": 2,
-    "type": 3,
-    "account": "1-0",
-    "seed": 18186.0
+    "stash_reset": 0.0,
+    "stash_tab_0": [
+        {
+            "id": 0,
+            "rarity": 6,
+            "token_level": 0,
+            "timestamp": "0.00",
+            "mf_drop": 0,
+            "amount": 1,
+            "market_id": 0,
+            "drop_quality": 0,
+            "token": 0,
+            "tier": 4,
+            "weapon_type": 2,
+            "type": 3,
+            "account": "1-0",
+            "seed": 18186.0,
+            "x": 0.0,
+            "y": 0.0
+        }
+    ],
+    "stash_tab_1": [],
+    "stash_tab_2": [],
+    "stash_tab_3": [],
+    "stash_tab_4": [],
+    "stash_tab_5": []
 }
-```
-
-Since we wanna equip it, we convert it to Base64 and assign it to the first weapon slot
-```
-inventory3="ewogICAgImlkIjogMCwKICAgICJyYXJpdHkiOiA2LAogICAgInRva2VuX2xldmVsIjogMCwKICAgICJ0aW1lc3RhbXAiOiAiMC4wMCIsCiAgICAibWZfZHJvcCI6IDAsCiAgICAiYW1vdW50IjogMSwKICAgICJtYXJrZXRfaWQiOiAwLAogICAgImRyb3BfcXVhbGl0eSI6IDAsCiAgICAidG9rZW4iOiAwLAogICAgInRpZXIiOiA0LAogICAgIndlYXBvbl90eXBlIjogMiwKICAgICJ0eXBlIjogMywKICAgICJhY2NvdW50IjogIjEtMCIsCiAgICAic2VlZCI6IDE4MTg2LjAKfQ=="
 ```

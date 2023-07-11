@@ -67,13 +67,10 @@ Notes:
 - The Attacks per Second on the weapon tooltip already include any Attack Speed on the weapon itself
 
 ### Additive Damage
-
-**Additive Physical Damage:**
-
+#### Additive Physical Damage:**
 The amount of Physical damage added to your Attacks.
 
-**Additive [Magic/Cold/Fire/Poison/Lightning] Damage:**
-
+#### Additive (Elemental) Damage
 The amount of [Magic/Cold/Fire/Poison/Lightning] damage added to your Attacks. This stat is affected by the [Magic/Cold/Fire/Poison/Lightning] Resistance of the enemy and cannot crit.
 
 ### Critical Strike Chance

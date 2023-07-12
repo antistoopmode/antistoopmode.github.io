@@ -4,6 +4,26 @@ layout: default
 ---
 
 # Frequently Asked Questions
+## General
+How do I change my loot filter?
+> Unfortunately the loot filter was removed from the game.
+
+How can I bind additional Skills?
+> 1. Set your Skill keybinds in the control settings
+> 1. Click on your second hot bar slot (the one with the right-click mouse icon) to show the available skills.
+> 1. Hover over the skill
+> 1. Press the desired hot key while hovering over the skill
+
+Why is does the mail not find the recipient?
+> The mail uses the account name as the recipient identifier, which is a **major security risk**. If possible, avoid the mail and trade in character.
+
+## Combat
+What's the best class?
+> Please refer to the ingame "Solo Ranking" leaderboards, which are available in the online lobby. Check which class has the highest top 10 Wormhole rankings.
+
+What's the best build for my class?
+> Have a look at the #class-discussion channel over at the [Hero Siege Discord](https://discord.com/invite/herosiegeofficial).
+
 Can [Spell Skills] crit? 
 > No, only Physical [Attack Skills] can crit.
 
@@ -21,22 +41,6 @@ Is Additive Damage affected by Resistances?
 
 Is Physical Damage a type of Element Damage?
 > No. Elemental Damage types in Hero Siege 2 include Magic, Cold, Fire, Poison and Lightning.
-
-How do I change my loot filter?
-> Unfortunately the loot filter was removed from the game.
-
-How can I bind additional Skills?
-> 1. Set your Skill keybinds in the control settings
-> 1. Click on your second hot bar slot (the one with the right-click mouse icon) to show the available skills.
-> 1. Hover over the skill
-> 1. Press the desired hot key while hovering over the skill
-
-Why is does the mail not find the recipient?
-
-{: .highlight }
-> The mail uses the account name as the recipient identifier, which is a major security risk. If possible, avoid the mail and trade in character.
-
-
 
 ----
 

@@ -32,6 +32,7 @@ How can I bind additional Skills?
 > 1. Press the desired hot key while hovering over the skill
 
 Why is does the mail not find the recipient?
+
 {: .highlight }
 > The mail uses the account name as the recipient identifier, which is a major security risk. If possible, avoid the mail and trade in character.
 

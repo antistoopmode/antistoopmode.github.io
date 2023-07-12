@@ -142,6 +142,18 @@ A short explanation of the key/value pairs:
     - 9: Heroic
 - "timestamp": The UNIX timestamp of when the item dropped
 - "amount": The stack size
+- "type": The item type
+    - 0: Helmet
+    - 1: Body Armor
+    - 2: Boots
+    - 3: Weapon
+    - 4: Gloves
+    - 5: Amulet
+    - 6: Shield
+    - 7: Ring
+    - 8: Belt
+    - 15: Rune
+    - 16: Relic
 - "weapon_type": The armor or weapon base type
     - 0: Armor (or Shield)
     - 1: Sword
@@ -161,18 +173,6 @@ A short explanation of the key/value pairs:
     - 15: Flask
     - 16: Throwing
     - 17: Novelty
-- "type": The item type
-    - 0: Helmet
-    - 1: Body Armor
-    - 2: Boots
-    - 3: Weapon
-    - 4: Gloves
-    - 5: Amulet
-    - 6: Shield
-    - 7: Ring
-    - 8: Belt
-    - 15: Rune
-    - 16: Relic
 - "seed": Seed value to determine the individual stat rolls
 
 ### Example

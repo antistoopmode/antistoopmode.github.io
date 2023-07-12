@@ -154,6 +154,9 @@ The percent of chance to block incoming Physical attacks and Physical projectile
 
 The only source for Block Chance is the shield, which makes it impossible to reach more than 75% block chance.
 
+### Damage Reduction
+Reduces all incoming damage.
+
 ### (Physical) Damage Reduction
 Reduces all incoming Physical damage.
 

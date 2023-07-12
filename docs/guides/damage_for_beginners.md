@@ -15,6 +15,9 @@ Active Skills scale with:
 - **Auras**: Auras that increase a relevant Stat for your Active Skills, will boost their damage. You can only use one Aura at a time.
 - **Passives**: Passives that increase a relevant Stat for your Active Skills, will boost their damage.
 
+Notes:
+- Triggered Skills scale the same way, meaning they for example benefit from the damage increase of increasing certain other Skill levels.
+
 # Damage Skill Types
 There are three types of damage Skills in Hero Siege 2: Attack Skills, Spell Skills and Hybrid Skills. The following chapters explain how to identify each Skill type with an example, how to scale it's damage and what to look out for.
 

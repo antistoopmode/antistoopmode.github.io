@@ -14,11 +14,11 @@ Step 1: Avoidance (only applies to Attacks)
 - [Defense vs Missiles]
 
 Step 2: Mitigation for Physical Damage 
-- [Physical Damage Reduction]
+- [Physical Damage Reduction] / [Damage Reduction]
 
 Step 2: Mitigation for Elemental Damage Mitigation
 - [Resistance] 
-- [Elemental Damage Reduction]
+- [Elemental Damage Reduction] / [Damage Reduction]
 
 Capping your Resistances should be your highest priority. Physical Damage Reduction should be next on your list. Defense is nice, but way too unpredictable.
 
@@ -26,5 +26,6 @@ Capping your Resistances should be your highest priority. Physical Damage Reduct
 [Defense]: ../mechanics/stats.html#defense
 [Physical Damage Reduction]: ../mechanics/stats.html#physical-damage-reduction
 [Elemental Damage Reduction]: ../mechanics/stats.html#elemental-damage-reduction
-[Defense vs Missiles]: ../mechanics/stats.html#defense-vs-missiles
+[Damage Reduction]: ../mechanics/stats.html#damage-reduction
+[Defense vs Missiles]: ../mechanics/stats.html#def: ense-vs-missiles
 [Resistance]: ../mechanics/stats.html#resistance

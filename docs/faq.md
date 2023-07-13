@@ -23,6 +23,9 @@ layout: default
 ### Where can I find the crafting recipes?
 > Crafting recipes for Runewords, the Cube, Prospecting and Jewelcrafting can be found in the Journal menu ingame.
 
+### What do angelic keys do?
+> Angelic keys can be used to open the Angelic Realm in the Dawn's Chapel (6-0). The Angelic Realm will give you the option to add Body Armor [Augments](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=700219462).
+
 ## Combat
 ### What's the best class?
 > Please refer to the ingame "Solo Ranking" leaderboards, which are available in the online lobby. Check which class has the highest top 10 Wormhole rankings.

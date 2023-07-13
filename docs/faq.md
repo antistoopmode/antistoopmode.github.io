@@ -17,6 +17,12 @@ How can I bind additional Skills?
 Why is does the mail not find the recipient?
 > The mail uses the account name as the recipient identifier, which is a **major security risk**. If possible, avoid the mail and trade in character.
 
+Is Magic Find required to drop certain items?
+> No. More info over at [Magic Find].
+
+Where can I find the crafting recipes?
+> Crafting recipes for Runewords, the Cube, Prospecting and Jewelcrafting can be found in the Journal menu ingame.
+
 ## Combat
 What's the best class?
 > Please refer to the ingame "Solo Ranking" leaderboards, which are available in the online lobby. Check which class has the highest top 10 Wormhole rankings.
@@ -46,3 +52,4 @@ Is Physical Damage a type of Element Damage?
 
 [Attack Skills]: ./guides/damage_for_beginners.html#attack-skill
 [Spell Skills]: ../mechanics/stats.html#attributes
+[Magic Find]: ../mechanics/stats.html#magic-find

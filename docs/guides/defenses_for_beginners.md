@@ -20,8 +20,14 @@ Step 2: Mitigation for Elemental Damage Mitigation
 - [Resistance] 
 - [Elemental Damage Reduction] / [Damage Reduction]
 
-Capping your Resistances should be your highest priority. Physical Damage Reduction should be next on your list. Defense is nice, but way too unpredictable.
+Step 3: Life Pool
+- [Life]
 
+Step 4: Recovery
+- Life on Kill
+- [Life stolen per Hit] (only applies to Physical Attacks)
+
+Capping your Resistances should be your highest priority. Physical Damage Reduction should be next on your list, although it's hard to come by. Defense is nice, but way too unpredictable.
 
 [Defense]: ../mechanics/stats.html#defense
 [Physical Damage Reduction]: ../mechanics/stats.html#physical-damage-reduction
@@ -29,3 +35,5 @@ Capping your Resistances should be your highest priority. Physical Damage Reduct
 [Damage Reduction]: ../mechanics/stats.html#damage-reduction
 [Defense vs Missiles]: ../mechanics/stats.html#def: ense-vs-missiles
 [Resistance]: ../mechanics/stats.html#resistance
+[Life]: ../mechanics/stats.html#life
+[Life]: ../mechanics/stats.html#life-stolen-per-hit

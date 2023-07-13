@@ -110,6 +110,15 @@ Chance to deal [Melee: (normal enemy 1/4) (boss 1/8)] [Ranged: (normal enemy 1/8
 - GLOBAL CHANCE OR PER WEAPON?
 - DOES THE STAT EXIST ON ARMOR? IF YES: DOES IT AFFECT BOTH WEAPONS? --->
 
+### Mana
+The maximum amount of Mana. It can be consumed to use Skills.
+
+### Mana stolen per Hit
+Replenishes Mana when hitting an enemy with a Physical Attack. The amount of replenished Mana is based on the Physical damage dealt.
+
+### Replenish Mana
+Increases your base regeneration rate defined by the amount of Mana you have by a percentage.
+
 ### Enhanced Damage
 Increases your Physical damage percentually on weapons that have this stat.
 
@@ -207,15 +216,6 @@ Reduces the time of being frozen. There are two stats that affect the incoming f
 - DO 2x items with "stat_half_freeze_duration" do the same thing as "stat_cannot_be_frozen"?? -->
 
 ## Utility Stats
-### Mana
-The maximum amount of Mana. It can be consumed to use Skills.
-
-### Mana stolen per Hit
-Replenishes Mana when hitting an enemy with a Physical Attack. The amount of replenished Mana is based on the Physical damage dealt.
-
-### Replenish Mana
-Increases your base regeneration rate defined by the amount of Mana you have by a percentage.
-
 ### Extra Gold Dropped From Kills
 Increases the percentage of Gold dropped from enemies killed.
 
@@ -223,7 +223,7 @@ Increases the percentage of Gold dropped from enemies killed.
 Increases your experience gained from killing enemies.
 
 ### Magic Find
-Increases the chance of finding Satanic / Set / Angelic items by the amount of Magic Find.
+Increases the chance of finding Satanic / Set / Angelic items by the amount of Magic Find. There are no breakpoints for Magic Find in Hero Siege 2!
 
 Example:
 With 300% Magic Find you are 3x more likely to drop your desired item.
@@ -231,7 +231,8 @@ With 300% Magic Find you are 3x more likely to drop your desired item.
 Find out more on how Magic Find works over at [Hero Siege 2 Roadmap - Magic Find & Drops](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).
 
 <!--- TODO: 
-- DOES IT ALSO AFFECT CHASE ITEMS -->
+- DOES IT ALSO AFFECT CHASE ITEMS?
+- DOES IT WORK IN FRACTIONS? E.G. ITEM DROP CHANCE: 1/5000, will do 10% MF DO ANYTHING IN THIS PARTICULAR CASE? -->
 
 ----
 

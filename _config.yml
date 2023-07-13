@@ -5,6 +5,8 @@ theme: just-the-docs
 url: https://antistoopmode.github.io
 color_scheme: dark
 
+search.heading_level: 3
+
 aux_links:
   Report Issue: https://github.com/antistoopmode/antistoopmode.github.io/issues
   Contribute: https://github.com/antistoopmode/antistoopmode.github.io

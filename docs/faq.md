@@ -5,7 +5,7 @@ layout: default
 
 # Frequently Asked Questions
 ## General
-How do I change my loot filter?
+### How do I change my loot filter?
 > Unfortunately the loot filter was removed from the game.
 
 How can I bind additional Skills?
@@ -51,5 +51,5 @@ Is Physical Damage a type of Element Damage?
 ----
 
 [Attack Skills]: ./guides/damage_for_beginners.html#attack-skill
-[Spell Skills]: ../mechanics/stats.html#attributes
-[Magic Find]: ../mechanics/stats.html#magic-find
+[Spell Skills]: ./guides/damage_for_beginners.html#spell-skill
+[Magic Find]: ./mechanics/stats.html#magic-find

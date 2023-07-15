@@ -152,7 +152,12 @@ A short explanation of the key/value pairs:
     - 6: Shield
     - 7: Ring
     - 8: Belt
-    - 15: Rune
+    - 10: Charm
+    - 11: Consumable
+    - 12: Key
+    - 13: Collectible
+    - 14: Material
+    - 15: Socketable
     - 16: Relic
 - "weapon_type": The armor or weapon base type
     - 0: Armor (or Shield)

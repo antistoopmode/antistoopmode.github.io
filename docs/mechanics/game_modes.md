@@ -1,5 +1,5 @@
 ---
-title: Monsters
+title: Game Modes
 layout: default
 parent: Mechanics
 ---

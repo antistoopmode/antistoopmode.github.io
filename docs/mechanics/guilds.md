@@ -59,4 +59,4 @@ There are also some visual upgrades at Level 55, 65, 75, 85 and 95. [^1]
 
 ----
 
-[^1]: https://panicartstudios.com/herosiege/?page=devlog
+[^1]: [HS Devlog - Under the Sea 3](https://panicartstudios.com/herosiege/?page=devlog)

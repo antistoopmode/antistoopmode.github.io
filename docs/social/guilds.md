@@ -1,7 +1,7 @@
 ---
 title: Guilds
 layout: default
-parent: Mechanics
+parent: Social
 ---
 
 # Guilds

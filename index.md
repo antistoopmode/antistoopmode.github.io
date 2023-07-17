@@ -9,3 +9,7 @@ nav_order: 0
 This is intended to be a temporary place to host my Hero Siege 2 guides, before I migrate them to the official wiki.
 
 Please report any issues [here](https://github.com/antistoopmode/antistoopmode.github.io/issues). Feel free to make a pull request for this [Git Repository](https://github.com/antistoopmode/antistoopmode.github.io) when you want to add or fix something.
+
+
+## Small Update Regarding Save File Editing (July 16, 2023)
+I temporarily removed the "Save File Editing" guide on request of the developers in order to not spoil the discovery aspect of the new update. It will be back shortly after the HS2 launch.

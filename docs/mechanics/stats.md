@@ -32,8 +32,8 @@ The chance of hitting an enemies with an Attack or Hybrid Skill.
 - CALCULATE REQUIRED ATTACK RATING TO HIT THE UBER OR WH BOSS WITH THE HIGHEST DEFENSE (WITH A 95% CHANCE) --->
 
 **Notes:**
-- The chance is at least 5% and at most 95%.
-- The Player's level is always +10 when attacking
+- The chance is at least 5% and at most 95%.[^1]
+- The Player's level is always +10 when attacking.[^1]
 
 ### Increased Attack Rating
 Increases the Attack Rating stat percentually.
@@ -235,5 +235,7 @@ Find out more on how Magic Find works over at [Hero Siege 2 Roadmap - Magic Find
 - DOES IT WORK IN FRACTIONS? E.G. ITEM DROP CHANCE: 1/5000, will do 10% MF DO ANYTHING IN THIS PARTICULAR CASE? -->
 
 ----
+
+[^1]: [Hero Siege 2 Roadmap - Item Stats](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1048513045)
 
 [Defense]: #defense

@@ -67,7 +67,7 @@ Attacks per Second: 1.60 / 1.74
 - The Attacks per Second on the weapon tooltip already include any Attack Speed on the weapon itself
 
 ### Additive Damage
-#### Additive Physical Damage:**
+#### Additive Physical Damage:
 The amount of Physical damage added to your Attacks.
 
 #### Additive (Elemental) Damage

@@ -88,7 +88,7 @@ Increases the amount of Spells per Second you can cast. Faster Cast Rate increas
 - Increases in Spells per Second from Faster Cast Rate are always calculated using 1 Spell per Second and therefore the scaling is linear
 
 ### Skill Damage
-Increases the the damage of all Spell Skills and the Spell part of all Hybrid Skills. 
+Increases the damage of all Spell Skills and the Spell part of all Hybrid Skills. 
 The stat "[Magic/Cold/Fire/Poison/Lightning] Skill Damage" increases the the [Magic/Cold/Fire/Poison/Lightning] damage of Spell Skills and the Spell part of Hybrid Skills.
 
 ### Target Defense Ignored

@@ -15,7 +15,7 @@ More on that in the following chapters.
 
 The choice is reflected in the portraits of the character selection screen.
 
-![Image](../../assets/images/character_selection.png "Game Mode selection")
+![Image](../../assets/images/char_selection.png "Game Mode Selection")
 
 ## Seasonal vs. Non-Seasonal
 Seasonal heroes start in a fresh temporary environment which typically lasts for 3 months. They can only play with other seasonal heroes. At the end of the season they are transferred to the non-seasonal environment.

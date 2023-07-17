@@ -31,7 +31,7 @@ The chance of hitting an enemies with an Attack or Hybrid Skill.
 - CALCULATE REQUIRED ATTACK RATING TO HIT THE HIGHEST MONSTER LEVEL WHILE IGNORING THEIR DEFENSE (WITH A 95% CHANCE)
 - CALCULATE REQUIRED ATTACK RATING TO HIT THE UBER OR WH BOSS WITH THE HIGHEST DEFENSE (WITH A 95% CHANCE) --->
 
-Notes: 
+**Notes:**
 - The chance is at least 5% and at most 95%.
 - The Player's level is always +10 when attacking
 
@@ -42,7 +42,7 @@ Increases the Attack Rating stat percentually.
 
 Increases the amount of Attacks per Second you can perform. Attack Speed increases the Attacks per Second performed by 0.01 per percent.
 
-Example:
+**Example:**
 
 Gear
 
@@ -59,7 +59,7 @@ This results in the following total APS
 Attacks per Second: 1.60 / 1.74
 ```
 
-Notes:
+**Notes:**
 - There are no diminishing returns
 - There is no cap in Attack Speed or Attacks per Second 
 - Attack Speed on a weapon only affects the speed of that specific weapon, while Attack Speed from other sources affects all equipped weapons. Attack Speed from the weapon and other sources are additive.
@@ -82,7 +82,7 @@ The amount of Critical Strike Damage you deal when you trigger a Critical Strike
 ### Faster Cast Rate
 Increases the amount of Spells per Second you can cast. Faster Cast Rate increases the Spells per Second by 0.01 per percent.
 
-Notes:
+**Notes:**
 - There are no diminishing returns
 - There is no cap in Faster Cast Rate or Spells per Second 
 - Increases in Spells per Second from Faster Cast Rate are always calculated using 1 Spell per Second and therefore the scaling is linear
@@ -155,7 +155,7 @@ Increases your [Defense] rating percentually against enemy projectile Attacks.
 ### Enhanced Defense
 Increases the Defense value on the item with this particular stat. The Defense value on the tooltip of those items already include the additional Defense from this stat. 
 
-Notes:
+**Notes:**
 - This stat doesn't increase your Defense globally.
 
 ### Block Chance
@@ -225,7 +225,7 @@ Increases your experience gained from killing enemies.
 ### Magic Find
 Increases the chance of finding Satanic / Set / Angelic items by the amount of Magic Find. There are no breakpoints for Magic Find in Hero Siege 2!
 
-Example:
+**Example:**
 With 300% Magic Find you are 3x more likely to drop your desired item.
 
 Find out more on how Magic Find works over at [Hero Siege 2 Roadmap - Magic Find & Drops](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1759635168).

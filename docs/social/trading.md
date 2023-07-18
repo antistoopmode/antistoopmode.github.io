@@ -1,5 +1,5 @@
 ---
-title: Guilds
+title: Trading
 layout: default
 parent: Social
 ---

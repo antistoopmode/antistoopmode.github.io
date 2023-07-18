@@ -1,3 +1,9 @@
+---
+layout: default
+title: Key Dungeons
+parent: Instances
+---
+
 <table>
 <thead>
   <tr>

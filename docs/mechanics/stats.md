@@ -5,9 +5,13 @@ parent: Mechanics
 ---
 
 # Stats
+{: .no_toc }
 Stats increases the offense and defense of your character. These can be increased by equipped items, Attributes and certain Skills.
 
-1. TOC
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
 {:toc}
 
 ## Attributes

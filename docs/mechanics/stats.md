@@ -14,6 +14,8 @@ Stats increases the offense and defense of your character. These can be increase
 - TOC
 {:toc}
 
+----
+
 ## Attributes
 You are able to allocate 4 Attribute Points per level (400 in total) into the following Attributes:
 

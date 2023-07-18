@@ -2,6 +2,7 @@
 layout: default
 title: Key Dungeons
 parent: Instances
+grand_parent: Mechanics
 ---
 
 # Key Dungeons

@@ -13,7 +13,7 @@ There are three key decisions to make when creating a character:
 
 More on that in the following chapters.
 
-The choice is reflected in the portraits of the character selection screen.
+The choice is reflected in the portraits at the character selection screen.
 
 ![Image](../../assets/images/char_selection.png "Game Mode Selection")
 

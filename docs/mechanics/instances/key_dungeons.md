@@ -4,6 +4,11 @@ title: Key Dungeons
 parent: Instances
 ---
 
+# Key Dungeons
+These Dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon keys can by used to activate dungeon challenges.
+
+(To be continued at a later date in order to avoid spoilers at launch..)
+
 <table>
 <thead>
   <tr>

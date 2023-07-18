@@ -7,6 +7,9 @@ parent: Mechanics
 # Stats
 Stats increases the offense and defense of your character. These can be increased by equipped items, Attributes and certain Skills.
 
+1. TOC
+{:toc}
+
 ## Attributes
 You are able to allocate 4 Attribute Points per level (400 in total) into the following Attributes:
 

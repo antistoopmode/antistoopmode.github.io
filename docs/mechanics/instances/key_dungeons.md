@@ -18,7 +18,7 @@ parent: Instances
   <tr>
     <td>1-1</td>
     <td>Rat Den</td>
-    <td><img src="https://static.wikia.nocookie.net/herosiege/images/8/83/1-1_Smelly_Cheese.png" width="200" height="200"></td>
+    <td><img src="https://static.wikia.nocookie.net/herosiege/images/8/83/1-1_Smelly_Cheese.png" width="40" height="40"></td>
     <td>Smelly Cheese</td>
     <td></td>
   </tr>

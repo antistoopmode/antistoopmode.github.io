@@ -26,6 +26,13 @@ layout: default
 ### What do angelic keys do?
 > Angelic keys can be used to open the Angelic Realm in the Dawn's Chapel (6-0). The Angelic Realm will give you the option to add Body Armor [Augments](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=700219462).
 
+## items
+### How can I automatically move my potions into the potion slots?
+> Go to your potion inventory on the bottom left of your inventory, and then enable the "Autofill belt" option below the glove equipment slot.
+
+### What do the blue numbers on the item mean?
+> A blue number on the Damage, Defense or Block Chance means that it has been increased by a stat on the item.
+
 ## Combat
 ### What's the best class?
 > Please refer to the ingame "Solo Ranking" leaderboards, which are available in the online lobby. Check which class has the highest top 10 Wormhole rankings.

@@ -51,7 +51,8 @@ Another Attack Skill would be "Explosive Bullets":
 - [Increased Attack Rating]
 - [Target Defense Ignored]
 - [Attack Speed]
-- [Additive Damage]
+- [Additive Physical Damage]
+- [Additive Elemental Damage]
 - [Critical Strike Chance]
 - [Critical Strike Damage]
 - [Chance for a Crushing Blow]
@@ -147,7 +148,8 @@ Bleeds and Poisons deal damage 10x before they expire. Each Skill has it's own d
 [Increased Attack Rating]: ../mechanics/stats.html#increased-attack-rating
 [Target Defense Ignored]: ../mechanics/stats.html#target-defense-ignored
 [Attack Speed]: ../mechanics/stats.html#attack-speed
-[Additive Damage]: ../mechanics/stats.html#additive-damage
+[Additive Phyical Damage]: ../mechanics/stats.html#additive-physical-damage
+[Additive Elemental Damage]: ../mechanics/stats.html#additive-elemental-damage
 [Critical Strike Chance]: ../mechanics/stats.html#critical-strike-chance
 [Critical Strike Damage]: ../mechanics/stats.html#critical-strike-damage
 [Chance for a Crushing Blow]: ../mechanics/stats.html#chance-for-a-crushing-blow

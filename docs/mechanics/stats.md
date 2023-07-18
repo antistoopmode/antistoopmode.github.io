@@ -66,11 +66,10 @@ Attacks per Second: 1.60 / 1.74
 - Increases in Attacks per Second from Attack Speed are always calculated using 1 Attack per Second and therefore the scaling is linear.
 - The Attacks per Second on the weapon tooltip already include any Attack Speed on the weapon itself
 
-### Additive Damage
-#### Additive Physical Damage:
+### Additive Physical Damage:
 The amount of Physical damage added to your Attacks.
 
-#### Additive (Elemental) Damage
+### Additive (Elemental) Damage
 The amount of [Magic/Cold/Fire/Poison/Lightning] damage added to your Attacks. This stat is affected by the [Magic/Cold/Fire/Poison/Lightning] Resistance of the enemy and cannot crit.
 
 ### Critical Strike Chance
@@ -110,14 +109,20 @@ Chance to deal [Melee: (normal enemy 1/4) (boss 1/8)] [Ranged: (normal enemy 1/8
 - GLOBAL CHANCE OR PER WEAPON?
 - DOES THE STAT EXIST ON ARMOR? IF YES: DOES IT AFFECT BOTH WEAPONS? --->
 
+### Piercing
+Makes your Attacks pierce. This doesn't work with certain Attack Skills, like the ones that explode on impact.
+
 ### Mana
 The maximum amount of Mana. It can be consumed to use Skills.
 
 ### Mana stolen per Hit
 Replenishes Mana when hitting an enemy with a Physical Attack. The amount of replenished Mana is based on the Physical damage dealt.
 
+### Mana After each Kill
+Replenishes Mana when killing an enemy. Works for both Attack and Spell Skills.
+
 ### Replenish Mana
-Increases your base regeneration rate defined by the amount of Mana you have by a percentage.
+Increases your base regeneration rate, defined by the amount of Energy and Mana you have, by a percentage.
 
 ### Enhanced Damage
 Increases your Physical damage percentually on weapons that have this stat.
@@ -178,11 +183,14 @@ The maximum amount of Life. It represents the amount of damage a character can t
 ### Life stolen per Hit
 Replenishes Life when hitting an enemy with a Physical Attack. The amount of replenished Life is based on the Physical damage dealt.
 
+### Mana After each Kill
+Replenishes Life when killing an enemy. Works for both Attack and Spell Skills.
+
 ### Replenish Life
 Increases your base regeneration rate defined by the amount of Life you have by a percentage.
 
 ### Resistance
-Resistances affect the amount of damage taken from Magic, Cold, Fire, Poison or Lightning damage.
+Resistances affect the amount of damage taken from Magic, Cold, Fire, Poison or Lightning damage. Resistances are capped at 75% and can be increased with the +% to Maximum [Magic/Cold/Fire/Poison/Lightning] Resistance stat.
 
 A penalty to all resistances is applied to player characters depending on the difficulty:
 - Normal[1-5]: [0%]
@@ -233,6 +241,9 @@ Find out more on how Magic Find works over at [Hero Siege 2 Roadmap - Magic Find
 <!--- TODO: 
 - DOES IT ALSO AFFECT CHASE ITEMS?
 - DOES IT WORK IN FRACTIONS? E.G. ITEM DROP CHANCE: 1/5000, will do 10% MF DO ANYTHING IN THIS PARTICULAR CASE? -->
+
+### Belt Slots
+Increases the amount of potion slots.
 
 ----
 

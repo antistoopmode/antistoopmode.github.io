@@ -26,7 +26,7 @@ layout: default
 ### What do angelic keys do?
 > Angelic keys can be used to open the Angelic Realm in the Dawn's Chapel (6-0). The Angelic Realm will give you the option to add Body Armor [Augments](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=700219462).
 
-## items
+## Items
 ### How can I automatically move my potions into the potion slots?
 > Go to your potion inventory on the bottom left of your inventory, and then enable the "Autofill belt" option below the glove equipment slot.
 

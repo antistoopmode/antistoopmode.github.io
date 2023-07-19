@@ -192,7 +192,7 @@ The maximum amount of Life. It represents the amount of damage a character can t
 ### Life stolen per Hit
 Replenishes Life when hitting an enemy with a Physical Attack. The amount of replenished Life is based on the Physical damage dealt.
 
-### Mana After each Kill
+### Life After each Kill
 Replenishes Life when killing an enemy. Works for both Attack and Spell Skills.
 
 ### Replenish Life

@@ -9,7 +9,7 @@ parent: Mechanics
 There are three key decisions to make when creating a character:
 1. Seasonal vs. Non-Seasonal
 1. Hardcore vs. Softcore
-1. Trade vs. Odyssey
+1. Odyssey vs. Trade
 
 More on that in the following chapters.
 

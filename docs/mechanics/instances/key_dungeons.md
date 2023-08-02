@@ -112,7 +112,7 @@ These Dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon ke
   </tr>
   <tr>
     <td>6-4</td>
-    <td>Steam Train</td>
+    <td>Arm Storage</td>
     <td>Storage Key</td>
     <td></td>
   </tr>

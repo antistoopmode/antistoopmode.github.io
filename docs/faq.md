@@ -6,7 +6,7 @@ layout: default
 # Frequently Asked Questions
 ## General
 ### How do I change my loot filter?
-> Unfortunately the loot filter was removed from the game.
+> In the Options under Gameplay.
 
 ### How can I bind additional Skills?
 > 1. Set your Skill keybinds in the control settings

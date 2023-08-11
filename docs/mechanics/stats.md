@@ -240,7 +240,7 @@ Increases the percentage of Gold dropped from enemies killed.
 Increases your experience gained from killing enemies.
 
 ### Magic Find
-Increases the chance of finding Satanic / Set / Angelic items by the amount of Magic Find. There are no breakpoints for Magic Find in Hero Siege 2!
+Increases the chance of finding Satanic / Set / Angelic items (and probably Heroics, but not confirmed yet) by the amount of Magic Find. There are no breakpoints for Magic Find in Hero Siege 2!
 
 **Example:**
 With 300% Magic Find you are 3x more likely to drop your desired item.

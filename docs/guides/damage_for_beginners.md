@@ -59,9 +59,6 @@ Another Attack Skill would be "Explosive Bullets":
 - [Chance to a Deadly Blow]
 - [Chance to Open Wounds]
 - [Life stolen per Hit]
-- [Mana stolen per Hit]
-- [Energy] (except the default Skill "Attack")
-- [Mana] (except the default Skill "Attack")
 - [Skill levels] (except the default Skill "Attack")
 - [Enemy Resistance] (only applies to the Non-Physical part of the Attack)
 
@@ -99,8 +96,6 @@ The Fire Spell Skill "Tire Fire" which scales with Attack Speed:
 - [Faster Cast Rate] (if the skill has the purple flame icon on the top right of the tooltip)
 - [Attack Speed] (if the skill has the orange sword icon on the top right of the tooltip)
 - [Skill Damage]
-- [Energy]
-- [Mana]
 - [Skill levels] 
 - [Enemy Resistance] (only applies to Non-Physical Spells)
 
@@ -148,7 +143,7 @@ Bleeds and Poisons deal damage 10x before they expire. Each Skill has it's own d
 [Increased Attack Rating]: ../mechanics/stats.html#increased-attack-rating
 [Target Defense Ignored]: ../mechanics/stats.html#target-defense-ignored
 [Attack Speed]: ../mechanics/stats.html#attack-speed
-[Additive Phyical Damage]: ../mechanics/stats.html#additive-physical-damage
+[Additive Physical Damage]: ../mechanics/stats.html#additive-physical-damage
 [Additive Elemental Damage]: ../mechanics/stats.html#additive-elemental-damage
 [Critical Strike Chance]: ../mechanics/stats.html#critical-strike-chance
 [Critical Strike Damage]: ../mechanics/stats.html#critical-strike-damage

@@ -58,7 +58,6 @@ Another Attack Skill would be "Explosive Bullets":
 - [Chance for a Crushing Blow]
 - [Chance to a Deadly Blow]
 - [Chance to Open Wounds]
-- [Life stolen per Hit]
 - [Skill levels] (except the default Skill "Attack")
 - [Enemy Resistance] (only applies to the Non-Physical part of the Attack)
 

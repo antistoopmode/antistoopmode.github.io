@@ -87,6 +87,9 @@ The chance to deal a Critical Strike with Physical Attacks. The base Critical St
 ### Critical Strike Damage
 The amount of Critical Strike Damage you deal when you trigger a Critical Strike with Physical Attacks. The base Critical Strike Damage is 25%
 
+### Cooldown reduction
+Reduces the cooldown on the cooldown based skills (indicated by the hourglass icon on the tooltip).
+
 ### Faster Cast Rate
 Increases the amount of Spells per Second you can cast. Faster Cast Rate increases the Spells per Second by 0.01 per percent.
 

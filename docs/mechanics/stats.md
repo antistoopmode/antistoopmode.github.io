@@ -32,7 +32,7 @@ You are able to allocate 4 Attribute Points per level (400 in total) into the fo
 The amount of Attack Damage you deal with Attack or Hybrid Skills when you hit an enemy (per weapon). This value includes all Additive Damage stats as well as Enhanced Damage.
 
 ### Attack Rating
-The chance of hitting an enemies with an Attack or Hybrid Skill.
+The chance of hitting an enemies with an Attack or Hybrid Skill. The tooltip shows the percentage chance to hit your last enemy.
 
 <!--- TODO: 
 {: .label .label-red }

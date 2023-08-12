@@ -28,6 +28,6 @@ Hardcore heroes only have a single life and won't be able to resurrect. They can
 Softcore heroes can resurrect infinitely and can only play with other Softcore heroes.
 
 ## Odyssey vs. Trade
-Odyssey is essentially solo-self found, meaning that Odyssey heroes can only play solo and are not able to use the market, the trade function or the mailbox. Odyssey heroes have an additional +300% [Magic Find](/stats.html#magic-find).
+Odyssey is essentially solo-self found, meaning that Odyssey heroes can only play solo and are not able to use the market, the trade function or the mailbox. Odyssey heroes have an additional +300% [Magic Find](./stats.html#magic-find).
 
 Trade is the default mode where you are able to freely group up and trade with other heroes.

@@ -12,6 +12,9 @@ Please report any issues [here](https://github.com/antistoopmode/antistoopmode.g
 
 ----
 
+## Runewords (August 13, 2023)
+Added the [Runewords](./docs/guides/runewords.html) guide with info on how to craft them and how the base influences the resulting item.
+
 ## Added Guild And Game Mode Pages (July 17, 2023)
 Added basic info about [Guilds](./docs/social/guilds.html) and [Game Modes](./docs/mechanics/game_modes.html).
 

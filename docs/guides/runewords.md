@@ -52,3 +52,11 @@ The resulting Runeword:
 ![Image](../../assets/images/2h_mjolnir.png)
 
 Notice how much higher the Damage on the 2-Handed weapon is due to the high  Damage on the 2-Handed base, even though it rolled very similar stats (1h and 2h have the same item stat ranges).
+
+
+### Example: Mjolner - Sword vs Mace
+The weapon base can have a big impact on the result as well. See for example Mjolnir as Sword vs Mace:
+
+![Image](../../assets/images/2h_sword_mjolner.png)
+
+![Image](../../assets/images/2h_mace_mjolner.png)

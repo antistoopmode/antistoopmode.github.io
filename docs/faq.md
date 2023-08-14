@@ -44,10 +44,10 @@ layout: default
 > Have a look at the #class-discussion channel over at the [Hero Siege Discord](https://discord.com/invite/herosiegeofficial).
 
 ### Can [Spell Skills] crit? 
-> No, only Physical [Attack Skills] can crit.
+> No, only [Attack Skills] can crit.
 
 ### Can dot's crit? 
-> No, only Physical [Attack Skills] can crit.
+> No, only [Attack Skills] can crit.
 
 ### Why is my Skill Damage % not increasing the damage of my skill?
 > [Attack Skills] do not benefit from the Skill Damage stat.
@@ -56,10 +56,13 @@ layout: default
 > Life and Mana stolen per hit work only for your Physical Attack damage.
 
 ### Is Additive Damage affected by Resistances?
-> Additive Magic, Cold, Fire, Poison and Lightning Damage are affected by enemy Resistances. Additive Physical Damage is not affected by any Resistances, since there ### is no Physical Resistance.
+> Additive Arcane, Cold, Fire, Poison and Lightning Damage are affected by enemy Resistances. Additive Physical Damage is not affected by any Resistances, since there is no Physical Resistance.
 
-### Is Physical Damage a type of Element Damage?
-> No. Elemental Damage types in Hero Siege 2 include Magic, Cold, Fire, Poison and Lightning.
+### Is Physical Damage a type of Magic Damage?
+> No. 
+
+### What is Magic Damage?
+> Magic Damage includes the following damage types: Arcane, Cold, Fire, Poison and Lightning Damage.
 
 ----
 

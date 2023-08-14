@@ -22,7 +22,7 @@ Once touched, Battlefield portals will expand and spawn a series of monsters. Th
 ![Image](../../assets/images/eternal_battlefield.png)
 
 ## Unstable Rift Portal
-Unstable Rifts 
+Unstable Rift portals will teleport you to a new area where you will face a challenge of 5 monsters waves.
 
 ![Image](../../assets/images/unstable_rift.png)
 

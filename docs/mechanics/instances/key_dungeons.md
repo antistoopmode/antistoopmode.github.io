@@ -6,7 +6,9 @@ grand_parent: Mechanics
 ---
 
 # Key Dungeons
-These Dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon keys can by used to activate dungeon challenges.
+
+## Challenge Dungeons
+The basic version of these dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon keys can by used to activate dungeon challenges.
 
 (To be continued at a later date in order to avoid spoilers at launch..)
 
@@ -104,12 +106,6 @@ These Dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon ke
     <td>Golden Key</td>
     <td></td>
   </tr>
-    <tr>
-    <td>6-0</td>
-    <td>Ruby Gardens</td>
-    <td>Ruby Key</td>
-    <td></td>
-  </tr>
   <tr>
     <td>6-1</td>
     <td>Unmarked Grave</td>
@@ -148,3 +144,36 @@ These Dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon ke
   </tr>
 </tbody>
 </table>
+
+## Other Dungeons
+<table>
+<thead>
+  <tr>
+    <th>Location</th>
+    <th>Dungeon</th>
+    <th>Key</th>
+    <th>Reward</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1-0</td>
+    <td>Sheeponia</td>
+    <td>Cloud Key</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1-0</td>
+    <td>Fallen Inoya</td>
+    <td>Key of Terror</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6-0</td>
+    <td>Ruby Gardens</td>
+    <td>Ruby Key</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+

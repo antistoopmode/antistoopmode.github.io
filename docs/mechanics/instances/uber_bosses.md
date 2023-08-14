@@ -32,6 +32,6 @@ King Rakhul can be challenged after completing 10 Chaos Towers.
 --->
 
 ## Grimbone 
-Grimbone is found in the "Niflhel" dungeon in Helheim (zone 8-5), which requires a "Helflame Torch" to enter.
+Grimbone is found in the "Niflhel" dungeon in Helheim (zone 8-5), which requires a "Helflame Torch" to enter. (Not in the open beta yet)
 
 ![Image](../../../assets/images/niflhel.png)

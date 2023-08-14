@@ -5,7 +5,7 @@ parent: Social
 ---
 
 # Guilds
-Guilds are formal groupings of players that enable them to play together more effectively and reward them for doing so. They are account wide, cross-regional and can hold up to 32 people. Odyssey players can be in Guilds as well, but they don't benefit from the guild perks.
+Guilds are formal groupings of players that enable them to play together more effectively and reward them for doing so. They are account wide, cross-regional and can hold up to 32 people. Odyssey players can be in Guilds as well, but they don't benefit from the guild perks. The guild menu can be accessed by pressing the "B" key.
 
 ## Creating a Guild
 Guilds can be created for 5000g at "Kranosh" (Guild Master) in  "Danethorpe" (the town of Act 2). He can be found just southwest of the waypoint. 

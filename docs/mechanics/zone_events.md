@@ -7,7 +7,7 @@ parent: Mechanics
 # Zone Events
 
 ## Satanic Zone
-Satanic Zones increase the zone Level by 25, monster resistances by 5% and the chances of packs to spawn as champion by 75% and as Ancients by 50%. Satanic Zone also adds 150% hidden magic find to all kills done within the zone. They are only active on Hell and change the location every hour. Satanic Zones are indicated by a pentagram next to the zone name.
+Satanic Zones increase the zone Level by 25, experience by 25%, monster resistances by 5% and the chances of packs to spawn as champion by 75% and as Ancients by 50%. Satanic Zone also adds 150% hidden magic find to all kills done within the zone. They are only active on Hell and change the location every hour. Satanic Zones are indicated by a pentagram next to the zone name.
 
 ![Image](../../assets/images/satanic_zone.png)
 

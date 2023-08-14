@@ -104,6 +104,12 @@ These Dungeons are free to enter on all difficulties in Hero Siege 2. Dungeon ke
     <td>Golden Key</td>
     <td></td>
   </tr>
+    <tr>
+    <td>6-0</td>
+    <td>Ruby Gardens</td>
+    <td>Ruby Key</td>
+    <td></td>
+  </tr>
   <tr>
     <td>6-1</td>
     <td>Unmarked Grave</td>

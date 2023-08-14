@@ -30,17 +30,6 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 - deals increased Attack Damage (except for the default Skill "Attack")
 - is an Active Skill
 
-**Examples of this Skill type:**
-
-The most basic example of this Skill type is the Skill "Attack":
-
-![Image](../../assets/images/attack.png "(default) Attack")
-
-Another Attack Skill would be "Explosive Bullets":
-
-![Image](../../assets/images/explosive_bullets.png "Explosive Bullets (Pirate)")
-
-
 **This Skill type makes use of the following Stats:**
 
 - [Attack Damage]
@@ -52,7 +41,7 @@ Another Attack Skill would be "Explosive Bullets":
 - [Target Defense Ignored]
 - [Attack Speed]
 - [Additive Physical Damage]
-- [Additive Elemental Damage]
+- [Additive Magic Damage]
 - [Critical Strike Chance]
 - [Critical Strike Damage]
 - [Chance for a Crushing Blow]
@@ -63,32 +52,21 @@ Another Attack Skill would be "Explosive Bullets":
 
 
 Notes: 
-- Attack Skills do **not** scale with Skill Damage
-
-## Spell Skill
-Spell Skills always hit and deal either Physical, Magic, Cold, Fire, Poison or Lightning damage. Some of them have a cooldown and/or duration.
-
-**How to identify this Skill type:**
-
-- always has a damage type tag of either Physical, Magic, Cold, Fire, Poison or Lightning
-- deals a certain amount of flat damage of the same type as the damage type tag
-- does **not** deal additional Attack Damage (if it does, then it's a Hybrid Skill and not a Spell Skill)
-- is an Active Skill
+- Attack Skills do **not** scale with Magic Skill Damage
 
 **Examples of this Skill type:**
 
-The Fire Spell Skill "Fireball" which scales with Faster Cast Rate:
+![Image](../../assets/images/explosive_bullets.png "Explosive Bullets (Pirate)")
 
-![Image](../../assets/images/fireball.png "Fireball (Pyromancer)")
+## Spell Skill
+Spell Skills always hit and deal either Arcane, Cold, Fire, Poison or Lightning damage. Some of them have a cooldown and/or duration.
 
-The Physical Spell Skill "Bouncing Grenade" which scales with Faster Cast Rate:
+**How to identify this Skill type:**
 
-![Image](../../assets/images/bouncing_grenade.png "Bouncing Grenade (Marauder)")
-
-The Fire Spell Skill "Tire Fire" which scales with Attack Speed:
-
-![Image](../../assets/images/tire_fire.png "Tire Fire (Redneck)")
-
+- always has a damage type tag of either Arcane, Cold, Fire, Poison or Lightning
+- deals a certain amount of flat damage of the same type as the damage type tag
+- does **not** deal additional Attack Damage (if it does, then it's a Hybrid Skill and not a Spell Skill)
+- is an Active Skill
 
 **This Skill type makes use of the following Stats:**
 
@@ -96,7 +74,17 @@ The Fire Spell Skill "Tire Fire" which scales with Attack Speed:
 - [Attack Speed] (if the skill has the orange sword icon on the top right of the tooltip)
 - [Skill Damage]
 - [Skill levels] 
-- [Enemy Resistance] (only applies to Non-Physical Spells)
+- [Enemy Resistance]
+
+**Examples of this Skill type:**
+
+The Fire Spell Skill "Fireball" which scales with Faster Cast Rate:
+
+![Image](../../assets/images/fireball.png "Fireball (Pyromancer)")
+
+The Fire Spell Skill "Tire Fire" which scales with Attack Speed:
+
+![Image](../../assets/images/tire_fire.png "Tire Fire (Redneck)")
 
 
 ## Hybrid Skill
@@ -104,9 +92,14 @@ Hybrid Skills are part Attack Skill and part Spell Skill. Each part scales separ
 
 **How to identify this Skill type:**
 
-- always has a damage type tag of either Physical, Magic, Cold, Fire, Poison or Lightning
+- always has a damage type tag of either Arcane, Cold, Fire, Poison or Lightning
 - deals additional Attack Damage
 - is an Active Skill
+
+**This Skill type makes use of the following Stats:**
+
+- (Please refer to the [Attack Skill](#attack-skill) section for the Attack part of the skill)
+- (Please refer to the [Spell Skill](#spell-skill) section for the Spell part of the skill)
 
 **Examples of this Skill type:**
 
@@ -114,21 +107,11 @@ The Hybrid Skill "Thunder Fury" which performs an Attack with increased Attack D
 
 ![Image](../../assets/images/thunder_fury.png "Thunder Fury (Amazon)")
 
-The Hybrid Skill "Rend Flesh" which performs Attack with increased Attack Damage as well as a Spell which deals Bleeding Damage over time:
-
-![Image](../../assets/images/rend_flesh.png "Rend Flesh (Marauder)")
-
-**This Skill type makes use of the following Stats:**
-
-- (Please refer to the [Attack Skill](#attack-skill) section for the Attack part of the skill)
-- (Please refer to the [Spell Skill](#spell-skill) section for the Spell part of the skill)
-
-
 # Damage over Time
 Bleeds and Poisons deal damage 10x before they expire. Each Skill has it's own dot, meaning the same skill will refresh the dot, but a different one of the same damage type will add it's own dot instance. Damage over time counts as a Spell and therefore scales like one:
 - [Skill Damage]
 - [Skill levels] 
-- [Enemy Resistance] (only applies to Non-Physical Spells)
+- [Enemy Resistance]
 
 (Keep in mind that certain Hybrid skills deal Damage over Time based on the initial hit)
 
@@ -143,7 +126,7 @@ Bleeds and Poisons deal damage 10x before they expire. Each Skill has it's own d
 [Target Defense Ignored]: ../mechanics/stats.html#target-defense-ignored
 [Attack Speed]: ../mechanics/stats.html#attack-speed
 [Additive Physical Damage]: ../mechanics/stats.html#additive-physical-damage
-[Additive Elemental Damage]: ../mechanics/stats.html#additive-elemental-damage
+[Additive Magic Damage]: ../mechanics/stats.html#additive-magic-damage
 [Critical Strike Chance]: ../mechanics/stats.html#critical-strike-chance
 [Critical Strike Damage]: ../mechanics/stats.html#critical-strike-damage
 [Chance for a Crushing Blow]: ../mechanics/stats.html#chance-for-a-crushing-blow

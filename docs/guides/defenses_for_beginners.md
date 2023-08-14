@@ -16,22 +16,22 @@ Step 1: Avoidance (only applies to Attacks)
 Step 2: Mitigation for Physical Damage 
 - [Physical Damage Reduction] / [Damage Reduction]
 
-Step 2: Mitigation for Elemental Damage Mitigation
+Step 2: Mitigation for Magic Damage
 - [Resistance] 
-- [Elemental Damage Reduction] / [Damage Reduction]
+- [Magic Damage Reduction] / [Damage Reduction]
 
 Step 3: Life Pool
 - [Life]
 
 Step 4: Recovery
 - [Life After each Kill]
-- [Life stolen per Hit] (only applies to Physical Attacks)
+- [Life stolen per Hit] (only applies to Attacks)
 
-Capping your Resistances should be your highest priority. Physical Damage Reduction should be next on your list, although it's hard to come by. Defense is nice, but way too unpredictable.
+Capping your Resistances should be your highest priority. Physical Damage Reduction should be next on your list, although it's hard to come by. 
 
 [Defense]: ../mechanics/stats.html#defense
 [Physical Damage Reduction]: ../mechanics/stats.html#physical-damage-reduction
-[Elemental Damage Reduction]: ../mechanics/stats.html#elemental-damage-reduction
+[Magic Damage Reduction]: ../mechanics/stats.html#magic-damage-reduction
 [Damage Reduction]: ../mechanics/stats.html#damage-reduction
 [Defense vs Missiles]: ../mechanics/stats.html#defense-vs-missiles
 [Resistance]: ../mechanics/stats.html#resistance

@@ -76,16 +76,16 @@ Attacks per Second: 1.60 / 1.74
 - The Attacks per Second on the weapon tooltip already include any Attack Speed on the weapon itself
 
 ### Additive Physical Damage:
-The amount of Physical damage added to your Attacks.
+The amount of Physical damage added to your [Attacks].
 
-### Additive (Elemental) Damage
-The amount of [Magic/Cold/Fire/Poison/Lightning] damage added to your Attacks. This stat is affected by the [Magic/Cold/Fire/Poison/Lightning] Resistance of the enemy and cannot crit.
+### Additive (Magic) Damage
+The amount of [Arcane/Cold/Fire/Poison/Lightning] damage added to your Attacks. This stat is affected by the [Arcane/Cold/Fire/Poison/Lightning] Resistance of the enemy and cannot crit.
 
 ### Critical Strike Chance
-The chance to deal a Critical Strike with Physical Attacks. The base Critical Strike Chance is 5%
+The chance to deal a Critical Strike with [Attacks]. The base Critical Strike Chance is 5%
 
 ### Critical Strike Damage
-The amount of Critical Strike Damage you deal when you trigger a Critical Strike with Physical Attacks. The base Critical Strike Damage is 25%
+The amount of Critical Strike Damage you deal when you trigger a Critical Strike with [Attacks]. The base Critical Strike Damage is 25%
 
 ### Cooldown reduction
 Reduces the cooldown on the cooldown based skills (indicated by the hourglass icon on the tooltip).
@@ -100,7 +100,7 @@ Increases the amount of Spells per Second you can cast. Faster Cast Rate increas
 
 ### Skill Damage
 Increases the damage of all Spell Skills and the Spell part of all Hybrid Skills. 
-The stat "[Magic/Cold/Fire/Poison/Lightning] Skill Damage" increases the the [Magic/Cold/Fire/Poison/Lightning] damage of Spell Skills and the Spell part of Hybrid Skills.
+The stat "[Arcane/Cold/Fire/Poison/Lightning] Skill Damage" increases the the [Arcane/Cold/Fire/Poison/Lightning] damage of Spell Skills and the Spell part of Hybrid Skills.
 
 ### Target Defense Ignored
 Ignores a percent of enemy defense rating when attacking, resulting in higher chance of hitting the enemy. 
@@ -128,25 +128,22 @@ Makes your Attacks pierce. This doesn't work with certain Attack Skills, like th
 The maximum amount of Mana. It can be consumed to use Skills.
 
 ### Mana stolen per Hit
-Replenishes Mana when hitting an enemy with a Physical Attack. The amount of replenished Mana is based on the Physical damage dealt.
+Replenishes Mana when hitting an enemy with an [Attack]. The amount of replenished Mana is based on the Physical damage dealt.
 
 ### Mana After each Kill
-Replenishes Mana when killing an enemy. Works for both Attack and Spell Skills.
+Replenishes Mana when killing an enemy. Works for both [Attack] and [Spell] Skills.
 
 ### Replenish Mana
 Increases your base regeneration rate, defined by the amount of Energy and Mana you have, by a percentage.
 
 ### Enhanced Damage
-Increases your Physical damage percentually on weapons that have this stat.
-
-<!--- TODO: 
-- DOES THE STAT EXIST ON ARMOR? IF YES: DOES IT AFFECT BOTH WEAPONS? --->
+Increases your weapon damage percentually on weapons that have this stat. If this stat is on an armor, then it will increase the weapon damage of both weapons.
 
 ### Chance to Open Wounds
 Chance to make the enemy bleed for a total of 40% of your Physical Damage over 8 seconds.
 
 ### Enemy Resistance
-The stat "-% to Enemy [Magic/Cold/Fire/Poison/Lightning] Resistances" affects the amount of damage enemies take from your [Magic/Cold/Fire/Poison/Lightning] damage.
+The stat "-% to Enemy [Arcane/Cold/Fire/Poison/Lightning] Resistances" affects the amount of damage enemies take from your [Arcane/Cold/Fire/Poison/Lightning] damage.
 
 ### All Skills
 Increases the level of all Skills by that amount.
@@ -154,11 +151,6 @@ Increases the level of all Skills by that amount.
 ## Defensive Stats
 ### Defense
 Lowers the chance of getting hit by incoming Physical Attacks and Physical Projectiles.
-
-<!--- TODO: 
-- EXPLAIN CALCULATION: % Chance to get hit = clamp(2 * (_AR / (_AR + _DR)) * (_Alvl / (_Alvl + _Dlvl)), 0.05, 0.95) * 100
-- CALCULATE REQUIRED DR TO HIT THE HIGHEST MONSTER LEVEL WHILE IGNORING THEIR DEFENSE
-- CALCULATE REQUIRED ATTACK RATING TO HIT THE UBER OR WH BOSS WITH THE HIGHEST DEFENSE -->
 
 Notes: 
 - The chance is at least 5% and at most 95%.
@@ -183,17 +175,17 @@ The only source for Block Chance is the shield, which makes it impossible to rea
 ### Damage Reduction
 Reduces all incoming damage.
 
-### (Physical) Damage Reduction
+### Physical Damage Reduction
 Reduces all incoming Physical damage.
 
-### (Elemental) Damage Reduction
-Reduces all incoming Non-Physical damage. This damage reduction applies to Magic, Cold, Fire, Poison and Lightning damage.
+### Magic Damage Reduction
+Reduces all incoming Magic damage. This damage reduction applies to Arcane, Cold, Fire, Poison and Lightning damage.
 
 ### Life
 The maximum amount of Life. It represents the amount of damage a character can take before they die.
 
 ### Life stolen per Hit
-Replenishes Life when hitting an enemy with a Physical Attack. The amount of replenished Life is based on the Physical damage dealt.
+Replenishes Life when hitting an enemy with an [Attack]. The amount of replenished Life is based on the Physical damage dealt.
 
 ### Life After each Kill
 Replenishes Life when killing an enemy. Works for both Attack and Spell Skills.
@@ -202,17 +194,15 @@ Replenishes Life when killing an enemy. Works for both Attack and Spell Skills.
 Increases your base regeneration rate defined by the amount of Life you have by a percentage.
 
 ### Resistance
-Resistances affect the amount of damage taken from Magic, Cold, Fire, Poison or Lightning damage. Resistances are capped at 75% and can be increased with the +% to Maximum [Magic/Cold/Fire/Poison/Lightning] Resistance stat.
+Resistances affect the amount of damage taken from Arcane, Cold, Fire, Poison or Lightning damage. Resistances are capped at 75% and can be increased with the +% to Maximum [Arcane/Cold/Fire/Poison/Lightning] Resistance stat.
 
 A penalty to all resistances is applied to player characters depending on the difficulty:
 - Normal[1-5]: [0%]
 - Nightmare[1-5]: [-35%/-40%/-45%/-50%/-55%]
 - Hell[1-5]: [-75%/-80%/-85%/-95%/-100%]
 
-<!--- ### Slow
-TODO:
-- WHAT DOES SLOW DO? ONLY ENEMY MOVEMENT SPEED REDUCTION OR ACTION SPEED?
-- CAN IT BE TRIGGERED WITH BOTH ATTACKS AND SPELLS? -->
+### Slow
+Reduces the movement speed of the units affected by this condition.
 
 ###  Faster Hit Recovery
 Reduces the recovery time / "stutter" after getting hit by enemy basic or projectile attacks.
@@ -262,3 +252,6 @@ Increases the amount of potion slots.
 [^1]: [Hero Siege 2 Roadmap - Item Stats](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=1048513045)
 
 [Defense]: #defense
+[Attack]: ../guides/damage_for_beginners.html#attack-skill
+[Attacks]: ../guides/damage_for_beginners.html#attack-skill
+[Spell]: ../guides/damage_for_beginners.html#spell-skill

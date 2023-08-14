@@ -14,6 +14,9 @@ layout: default
 > 1. Hover over the skill
 > 1. Press the desired hot key while hovering over the skill
 
+### How do I equip charms?
+> Move the charms into the golden area of the first inventory tab.
+
 ### Why is does the mail not find the recipient?
 > The mail uses the account name as the recipient identifier, which is a **major security risk**. If possible, avoid the mail and trade in character.
 

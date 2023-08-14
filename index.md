@@ -12,6 +12,9 @@ Please report any issues [here](https://github.com/antistoopmode/antistoopmode.g
 
 ----
 
+## Terminology Update (August 14, 2023)
+Updated the Damage, Defense and Stat page in order to reflect the latest naming changes (Magic and Physical Spell damage is now Arcane and Elemental is called Magic).
+
 ## Runewords (August 13, 2023)
 Added the [Runewords](./docs/guides/runewords.html) guide with info on how to craft them and how the base influences the resulting item.
 

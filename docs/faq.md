@@ -12,7 +12,9 @@ layout: default
 > 1. Set your Skill keybinds in the control settings
 > 1. Click on your second hot bar slot (the one with the right-click mouse icon) to show the available skills.
 > 1. Hover over the skill
-> 1. Press the desired hot key while hovering over the skill
+> 1. Press the desired hot key while hovering over the skill you want to bind in the skill selection bar shown above
+
+![Image](../assets/images/skill_binding.png "Game Mode Selection")
 
 ### How do I equip charms?
 > Move the charms into the golden area of the first inventory tab.

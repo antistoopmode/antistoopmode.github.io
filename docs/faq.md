@@ -29,7 +29,7 @@ layout: default
 > Crafting recipes for Runewords, the Cube, Prospecting and Jewelcrafting can be found in the Journal menu ingame.
 
 ### What do angelic keys do?
-> Angelic keys can be used to open the Angelic Realm in the Dawn's Chapel (6-0). The Angelic Realm will give you the option to add Body Armor [Augments](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=700219462).
+> Angelic keys can be used to open the Angelic Realm in the Dawn's Chapel (6-0). The Angelic Realm will give you the option to add or upgrade (Body Armor) [Augments](https://docs.google.com/spreadsheets/d/1QWjl6lITbMkjptYPIRwnIVUs7JQkqfEqAILlCgp1zAM/edit#gid=700219462).
 
 ## Items
 ### How can I automatically move my potions into the potion slots?

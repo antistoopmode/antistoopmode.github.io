@@ -51,7 +51,9 @@ The resulting Runeword:
 
 ![Image](../../assets/images/2h_mjolnir.png)
 
-Notice how much higher the Damage on the 2-Handed weapon is due to the high  Damage on the 2-Handed base, even though it rolled very similar stats (1h and 2h have the same item stat ranges).
+Notice how much higher the Damage on the 2-Handed weapon is due to the high  Damage on the 2-Handed base.
+
+New: 2h runewords now also have a higher stat range! (not represented in the screenshot yet, will be updated soon)
 
 
 ### Example: Mjolner - Sword vs Mace

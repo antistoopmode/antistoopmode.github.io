@@ -26,7 +26,7 @@ Attack Skills utilize your weapon(s) to deal damage and scale heavily off of Att
 
 **How to identify this Skill type:**
 
-- doesn't have any damage type tags
+- has a physical tag
 - deals increased Attack Damage (except for the default Skill "Attack")
 - is an Active Skill
 
@@ -70,6 +70,7 @@ Spell Skills always hit and deal either Arcane, Cold, Fire, Poison or Lightning 
 
 **This Skill type makes use of the following Stats:**
 
+- Intelligence
 - [Faster Cast Rate] (if the skill has the purple flame icon on the top right of the tooltip)
 - [Attack Speed] (if the skill has the orange sword icon on the top right of the tooltip)
 - [Skill Damage]

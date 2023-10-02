@@ -46,13 +46,13 @@ layout: default
 > Have a look at the #class-discussion channel over at the [Hero Siege Discord](https://discord.com/invite/herosiegeofficial).
 
 ### Can [Spell Skills] crit? 
-> No, only [Attack Skills] can crit.
+> No, only Physical [Attack Skills] can crit.
 
 ### Can dot's crit? 
-> No, only [Attack Skills] can crit.
+> No, only Physical [Attack Skills] can crit.
 
 ### Why is my Skill Damage % not increasing the damage of my skill?
-> [Attack Skills] do not benefit from the Skill Damage stat.
+> Physical [Attack Skills] do not benefit from the Skill Damage stat.
 
 ### Why is my life steal / mana steal not working?
 > Life and Mana stolen per hit work only for your Physical Attack damage.

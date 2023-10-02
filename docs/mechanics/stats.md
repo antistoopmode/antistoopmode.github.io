@@ -24,15 +24,16 @@ You are able to allocate 4 Attribute Points per level (400 in total) into the fo
 - Energy: +4 Mana per point
 - Armor: +5 Defense per point
 - Vitality: +5.5 Life per point
+- Intelligence (damage increase depends on the skill)
 
 ## Offensive Stats
 
 ### (Attack) Damage
 
-The amount of Attack Damage you deal with Attack or Hybrid Skills when you hit an enemy (per weapon). This value includes all Additive Damage stats as well as Enhanced Damage.
+The amount of Attack Damage you deal with Physical Attack or Hybrid Skills when you hit an enemy (per weapon). This value includes all Additive Damage stats as well as Enhanced Damage.
 
 ### Attack Rating
-The chance of hitting an enemies with an Attack or Hybrid Skill. The tooltip shows the percentage chance to hit your last enemy.
+The chance of hitting an enemies with a Physical Attack or Hybrid Skill. The tooltip shows the percentage chance to hit your last enemy.
 
 <!--- TODO: 
 {: .label .label-red }
@@ -128,7 +129,7 @@ Makes your Attacks pierce. This doesn't work with certain Attack Skills, like th
 The maximum amount of Mana. It can be consumed to use Skills.
 
 ### Mana stolen per Hit
-Replenishes Mana when hitting an enemy with an [Attack]. The amount of replenished Mana is based on the Physical damage dealt.
+Replenishes Mana when hitting an enemy with a Physical [Attack]. The amount of replenished Mana is based on the Physical damage dealt.
 
 ### Mana After each Kill
 Replenishes Mana when killing an enemy. Works for both [Attack] and [Spell] Skills.

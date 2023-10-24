@@ -12,6 +12,9 @@ Please report any issues [here](https://github.com/antistoopmode/antistoopmode.g
 
 ----
 
+## Project suspended
+I'm currently not interested in HS2 and will thus stop working on this project. Feel free to fork and continue it.
+
 ## Terminology Update (August 14, 2023)
 Updated the Damage, Defense and Stat page in order to reflect the latest naming changes (Magic and Physical Spell damage is now Arcane and Elemental is called Magic).
 

@@ -10,7 +10,5 @@ _site/
 vendor/
 
 # Other
-docs/guides/save_file_editing.md
+docs/
 downloads/
-docs/guides/leveling.md
-docs/guides/farming.md
